@@ -17,7 +17,7 @@ weight = 60
 
 I am teaching regular a number of classes and participate also in
 defining content and project for them as well as coordinating the
-TA's.  This includes e222, e516, i523, i524
+TA's.  This includes e222, e516, i523, i524.
 
 
 ## Ongoing Classes
@@ -30,6 +30,8 @@ Big Data  |  i513 |   Fall 2018           |  Project, Papers, Technologies | [li
 
 
 ## Upcomming  Classes
+
+The followng classes will be offered in Spring 2018
 
 Class                                   | ID        | Semester     | Proceedings | Piazza 
 --------------------- |------ | -------- | ------- | -------

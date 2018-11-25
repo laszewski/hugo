@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Mihael Hategan", "Depti Kodeboyina"]
 publication_types = ["6"]
 abstract = ""
 selected = "false"
-publication = "*Workflows for E-science: Scientific Workflows forGrids*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-workflow-book.pdf"
+publication = "*Workflows for E-science: Scientific Workflows for Grids*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-workflow-book.pdf"
 +++
 

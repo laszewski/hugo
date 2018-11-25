@@ -5,7 +5,7 @@ authors = ["Omer Rana", "Asif Akram", "Rashid Al-Ali", "David Walker", "Gregor v
 publication_types = ["6"]
 abstract = ""
 selected = "false"
-publication = "*Extending Web Services Technologies: The Use ofMulti-Agent Approaches*"
+publication = "*Extending Web Services Technologies: The Use of Multi-Agent Approaches*"
 doi = "10.1007/0-387-23344-X_8"
 +++
 

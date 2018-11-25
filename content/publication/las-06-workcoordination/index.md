@@ -6,6 +6,6 @@ publication_types = ["6"]
 abstract = ""
 selected = "false"
 publication = "*Grid Technologies*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-work-coordination.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-work-coordination.pdf"
 +++
 

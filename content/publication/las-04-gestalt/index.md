@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Patrick Wagstrom"]
 publication_types = ["6"]
 abstract = ""
 selected = "false"
-publication = "*Tools and Environments for Parallel and DistributedComputing*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-gestalt.pdf"
+publication = "*Tools and Environments for Parallel and Distributed Computing*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-gestalt.pdf"
 +++
 

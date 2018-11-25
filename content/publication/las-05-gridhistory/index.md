@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Journal of Information Technology*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-grid-idea.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-grid-idea.pdf"
 doi = "10.1524/itit.2005.47.6.319"
 +++
 

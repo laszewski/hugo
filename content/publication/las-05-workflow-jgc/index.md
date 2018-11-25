@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Journal of Grid Computing*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-workflow-taylor-anl.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-workflow-taylor-anl.pdf"
 doi = "10.1007/s10723-005-9013-5"
 +++
 

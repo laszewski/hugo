@@ -6,7 +6,7 @@ publication_types = ["6"]
 abstract = ""
 selected = "false"
 publication = "*Grid Middleware*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-grid-middleware.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-grid-middleware.pdf"
 doi = "10.1002/0470862084.ch5"
 +++
 

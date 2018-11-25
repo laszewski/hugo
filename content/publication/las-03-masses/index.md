@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Grid and Cooperative Computing (GCC2003)*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-masses-gcc03.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-masses-gcc03.pdf"
 +++
 

@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Mei-Hui Su", "Joseph Insley", "Ian Foster", 
 publication_types = ["6"]
 abstract = ""
 selected = "false"
-publication = "*Quasi-Realtime Microtomography Experiments atPhoton Sources*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-cmtscience.pdf"
+publication = "*Quasi-Realtime Microtomography Experiments at Photon Sources*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-cmtscience.pdf"
 +++
 

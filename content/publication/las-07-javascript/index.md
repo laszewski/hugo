@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Fugang Wang", "Andrew Younge", "Zhenhua Guo"
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the Grid Computing Environments 2007at SC07*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-07-javascript.pdf"
+publication = "*Proceedings of the Grid Computing Environments 2007 at SC07*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-07-javascript.pdf"
 +++
 

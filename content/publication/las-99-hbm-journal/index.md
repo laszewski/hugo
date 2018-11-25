@@ -1,12 +1,12 @@
 +++
-title = "A Fault Detection Service for Wide Area DistributedComputations"
+title = "A Fault Detection Service for Wide Area Distributed Computations"
 date = 1999-01-01
 authors = ["P. Stelling", "C. DeMatteis", "I. Foster", "C. Kesselman", "C. Lee", "Gregor von Laszewski"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Cluster Computing*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-hbm-journal.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-hbm-journal.pdf"
 doi = "10.1023/A:1019070407281"
 +++
 

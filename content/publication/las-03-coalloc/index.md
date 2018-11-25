@@ -5,7 +5,7 @@ authors = ["Sudeepth Ananad", "Srikanath Yoginath", "Gregor von Laszewski", "Beu
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the International Conference onCommunications in Computing*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-coalloc.pdf"
+publication = "*Proceedings of the International Conference on Communications in Computing*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-coalloc.pdf"
 +++
 

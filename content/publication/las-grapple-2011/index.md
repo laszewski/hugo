@@ -1,5 +1,5 @@
 +++
-title = "Grappling cloud infrastructure services with ageneric image repository"
+title = "Grappling cloud infrastructure services with a generic image repository"
 date = 2011-04-01
 authors = ["Javier Diaz", "Andrew Younge", "Gregor von Laszewski", " FugangWang", "Geoffrey C. Fox"]
 publication_types = ["1"]

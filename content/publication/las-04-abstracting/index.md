@@ -5,8 +5,8 @@ authors = ["Kaizar Amin", "Mihael Hategan", "Gregor von Laszewski", "Nestor J. Z
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the 12th Euromicro Conference onParallel, Distributed and Network-Based Processing(PDP 2004)*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-abstracting.pdf"
+publication = "*Proceedings of the 12th Euromicro Conference on Parallel, Distributed and Network-Based Processing (PDP 2004)*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-abstracting.pdf"
 doi = "10.1109/EMPDP.2004.1271452"
 +++
 

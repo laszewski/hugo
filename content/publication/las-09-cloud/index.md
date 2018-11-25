@@ -6,7 +6,7 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*New Generation Computing*"
-url_pdf = "https://laszewski.github.io/papers/08-ngc.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/08-ngc.pdf"
 doi = "10.1007/s00354-008-0081-5"
 +++
 

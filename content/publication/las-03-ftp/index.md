@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Beulah Alunkal", "Jarek Gawor", "Ravi Madhur
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the International Conferenece onParallel and Distributed Processing Techniques andApplications*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-gridftp.pdf"
+publication = "*Proceedings of the International Conferenece on Parallel and Distributed Processing Techniques and Applications*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-gridftp.pdf"
 +++
 

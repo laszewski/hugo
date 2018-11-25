@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Lizhe Wang"]
 publication_types = ["6"]
 abstract = ""
 selected = "false"
-publication = "*Grids and Service-Oriented Architectures forService Level Agreements*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-greenit-sla.pdf"
+publication = "*Grids and Service-Oriented Architectures for Service Level Agreements*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-greenit-sla.pdf"
 +++
 

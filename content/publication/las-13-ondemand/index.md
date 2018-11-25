@@ -1,5 +1,5 @@
 +++
-title = "On-demand Service Hosting on Production GridInfrastructures"
+title = "On-demand Service Hosting on Production Grid Infrastructures"
 date = 2013-01-01
 authors = ["Lizhe Wang", "Tobias Kurze", "Jie Tao", "Marcel Kunze", "Gregor von Laszewski"]
 publication_types = ["2"]

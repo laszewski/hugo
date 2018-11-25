@@ -5,9 +5,9 @@ authors = ["Gregor von Laszewski", "Ian Foster", "Jarek Gawor", "Peter Lane"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"
-publication = "*Concurrency and Computation: Practice andExperience*"
-tags = ["Commodity Grid Toolkits", "Java CoG Kit", "ComputationalGrid"]
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-cog-cpe-final.pdf"
+publication = "*Concurrency and Computation: Practice and Experience*"
+tags = ["Commodity Grid Toolkits", "Java CoG Kit", "Computational Grid"]
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-cog-cpe-final.pdf"
 doi = "10.1002/cpe.572"
 +++
 

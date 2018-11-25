@@ -1,12 +1,12 @@
 +++
-title = "A Framework for Building Scientific Knowledge GridsApplied to Thermochemical Tables"
+title = "A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables"
 date = 2003-12-01
 authors = ["Gregor von Laszewski", "Branko Ruscic", "Kaizar Amin", "Patrick Wagstrom", "Sriram Krishnan", "Sandeep Nijsure"]
 publication_types = ["2"]
 abstract = ""
 selected = "false"
-publication = "*The International Journal of High PerformanceComputing Applications*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-knowledge-grid.pdf"
+publication = "*The International Journal of High Performance Computing Applications*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-knowledge-grid.pdf"
 doi = "10.1177/10943420030174007"
 +++
 

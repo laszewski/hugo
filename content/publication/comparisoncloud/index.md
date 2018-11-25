@@ -6,7 +6,7 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*IEEE Cloud 2012*"
-url_pdf = "https://laszewski.github.io/papers/laszewski-IEEECloud2012_id-4803.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/laszewski-IEEECloud2012_id-4803.pdf"
 doi = "10.1109/CLOUD.2012.104"
 +++
 

@@ -5,7 +5,7 @@ authors = ["Rick Wagner", "Philip Papadopoulos", "Dmitry Mishin", "Trevor Cooper
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the XSEDE16 Conference on Diversity,Big Data, and Science at Scale*"
+publication = "*Proceedings of the XSEDE16 Conference on Diversity, Big Data, and Science at Scale*"
 doi = "10.1145/2949550.2949555"
 +++
 

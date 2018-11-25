@@ -1,5 +1,5 @@
 +++
-title = "Distance Visualization: Data Exploration on theGrid"
+title = "Distance Visualization: Data Exploration on the Grid"
 date = 1999-12-01
 authors = ["Ian Foster", "Joeseph Insley", "Gregor von Laszewski", "Carl Kesselman", "Marcus Thiebaux"]
 publication_types = ["2"]

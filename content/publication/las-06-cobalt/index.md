@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Christopher Grubb", "Matthew Bone", "David A
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*International Workshop on Grid ComputingEnvironments 2006 in Conjunction with SC06*"
+publication = "*International Workshop on Grid Computing Environments 2006 in Conjunction with SC06*"
 url_pdf = "http://library.rit.edu/oajournals/index.php/gce/article/view/73/34"
 +++
 

@@ -10,11 +10,18 @@ deploy:
 	cd ../laszewski.github.io; git push
 
 
-bib:
-	wget https://raw.githubusercontent.com/cyberaide/bib/master/vonLaszewski-jabref.bib
+# GET-bib:
+#	wget https://raw.githubusercontent.com/cyberaide/bib/master/vonLaszewski-jabref.bib
 
-san:
+bibclean:
+	rm -rf public
+	cp content/publication/_index.md /tmp/_index.md
+	rm -rf content/publication/*
+	cp /tmp/_index.md content/publication/_index.md
+
+bib: bibclean
 	cat vonLaszewski-jabref.bib | \
+	sed -e 's/\n/ \n/g' | \
 	sed -e 's/jan,/{January},/g' | \
 	sed -e 's/feb,/{February},/g' | \
 	sed -e 's/mar,/{March},/g' | \
@@ -40,5 +47,5 @@ san:
 	sed -e 's/nov #/{November} #/g' |\
 	sed -e 's/dec #/{December} #/g' > vonLaszewski.bib 
 	academic import --overwrite --bibtex vonLaszewski.bib 
-
+	hugo
 

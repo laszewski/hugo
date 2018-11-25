@@ -1,5 +1,5 @@
 +++
-title = "Grid Computing Environments 2007 ConfernceProceeedings"
+title = "Grid Computing Environments 2007 Confernce Proceeedings"
 date = 2007-11-01
 authors = ["Gregor von Laszewski"]
 publication_types = ["0"]

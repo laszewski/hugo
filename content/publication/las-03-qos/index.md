@@ -5,8 +5,8 @@ authors = ["Rashid Al-Ali", "Kaizar Amin", "Gregor von Laszewski", "Omer Rana", 
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the Second International Workshop onGrid and Cooperative Computing (GCC2003)*"
-url_pdf = "https://laszewski.github.io/papers//vonLaszewski-qos.pdf"
+publication = "*Proceedings of the Second International Workshop on Grid and Cooperative Computing (GCC2003)*"
+url_pdf = "https://github.com/laszewski/papers/blob/master//vonLaszewski-qos.pdf"
 doi = "10.1007/978-3-540-24680-0_88"
 +++
 

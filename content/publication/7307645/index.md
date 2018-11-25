@@ -5,8 +5,8 @@ authors = ["G. von Laszewski", "F. Wang", "G. C. Fox", "D. L. Hart", "T. R. Furl
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*2015 IEEE International Conference on ClusterComputing*"
-tags = ["citation analysis;publishing;NCAR publicationdata;XSEDE publication data;citationanalysis;comprehensive peer analysis;percentileranking based approach;publicationimpact;Atmospheric measurements;Conferences;Dataanalysis;Extraterrestrial measurements;Ranking(statistics);Resourcemanagement;Metrics;publications"]
+publication = "*2015 IEEE International Conference on Cluster Computing*"
+tags = ["citation analysis", "NCAR", "scientific impact"]
 doi = "10.1109/CLUSTER.2015.98"
 +++
 

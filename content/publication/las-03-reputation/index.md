@@ -6,6 +6,6 @@ publication_types = ["1"]
 abstract = ""
 selected = "false"
 publication = "*Workshop on Adaptive Grid Middleware*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-reputation.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-reputation.pdf"
 +++
 

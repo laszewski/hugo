@@ -6,6 +6,6 @@ publication_types = ["2"]
 abstract = ""
 selected = "false"
 publication = "*Scalable Computing: Practice and Experience*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-pdcp-reputation.pdf"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-pdcp-reputation.pdf"
 +++
 

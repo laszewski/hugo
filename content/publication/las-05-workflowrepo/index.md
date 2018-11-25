@@ -5,7 +5,7 @@ authors = ["Gregor von Laszewski", "Deepti Kodeboyina"]
 publication_types = ["1"]
 abstract = ""
 selected = "false"
-publication = "*Proceedings of the Joint International Conferenceon Autonomic and Autonomous Systems andInternational Conference on Networking andServices*"
-url_pdf = "https://laszewski.github.io/papers/vonLaszewski-workflow-repository.pdf"
+publication = "*Proceedings of the Joint International Conference on Autonomic and Autonomous Systems and International Conference on Networking and Services*"
+url_pdf = "https://github.com/laszewski/papers/blob/master/vonLaszewski-workflow-repository.pdf"
 +++
 

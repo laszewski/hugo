@@ -1,5 +1,5 @@
 +++
-title = "FederatedClouds '12: Proceedings of the 2012Workshop on Cloud Services, Federation, and the 8thOpen Cirrus Summit"
+title = "FederatedClouds '12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
 date = 2012-01-01
 authors = ["Gregor vonLaszewski", "Robert Grossman", "Michael Kozuchand Rick McGeerand Dejan Milojicic"]
 publication_types = ["0"]

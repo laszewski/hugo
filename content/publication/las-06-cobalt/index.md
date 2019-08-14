@@ -1,7 +1,7 @@
 ---
 title: "Workflow Management Through Cobalt"
 date: 2006-01-01
-publishDate: 2019-08-14T23:16:44.730109Z
+publishDate: 2019-08-14T23:22:16.240048Z
 authors: ["Gregor von Laszewski", "Christopher Grubb", "Matthew Bone", "David Angulo"]
 publication_types: ["1"]
 abstract: ""

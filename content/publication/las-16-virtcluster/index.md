@@ -1,7 +1,7 @@
 ---
 title: "User Managed Virtual Clusters in Comet"
 date: 2016-07-01
-publishDate: 2019-08-14T23:16:44.766445Z
+publishDate: 2019-08-14T23:22:16.276899Z
 authors: ["Rick Wagner", "Philip Papadopoulos", "Dmitry Mishin", "Trevor Cooper", "Mahidhar Tatineti", "Gregor von Laszewski", "Fugang Wang", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

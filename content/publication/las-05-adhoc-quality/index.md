@@ -1,7 +1,7 @@
 ---
 title: "Quality Assured Ad Hoc Grids"
 date: 2005-10-01
-publishDate: 2019-08-14T23:16:44.720794Z
+publishDate: 2019-08-14T23:22:16.230313Z
 authors: ["Kaizar Amin", "Gregor von Laszewski", "Armin R. Mikler"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Thermal Aware Workload Scheduling with Backfilling for Green Data Centers"
 date: 2009-12-01
-publishDate: 2019-08-14T23:16:44.746181Z
+publishDate: 2019-08-14T23:22:16.257418Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Jai Dayal", "Xi He", "Thomas R. Furlani"]
 publication_types: ["1"]
 abstract: ""

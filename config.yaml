@@ -115,15 +115,15 @@ menu:
     - name: Publications
       url: 'publication'
       weight: 2
-    - name: Posts
-      url: '#posts'
-      weight: 3
+#    - name: Posts
+#      url: '#posts'
+#      weight: 3
     - name: Projects
       url: '#projects'
       weight: 4
-    - name: Software
-      url: '#software'
-      weight: 4
+#    - name: Software
+#      url: '#software'
+#      weight: 4
     - name: History
       url: '#history'
       weight: 6

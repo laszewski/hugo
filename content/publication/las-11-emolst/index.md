@@ -1,7 +1,7 @@
 ---
 title: "eMOLST: a documentation flow for distributed health informatics"
 date: 2011-01-01
-publishDate: 2019-08-14T23:16:44.756077Z
+publishDate: 2019-08-14T23:22:16.267063Z
 authors: ["Gregor von Laszewski", "Jai Dayal", "Lizhe Wang"]
 publication_types: ["2"]
 abstract: ""

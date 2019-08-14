@@ -1,7 +1,7 @@
 ---
 title: "The Astrophysics Simulation Collaboratory: A Science Portal Enabling Community Software Development"
 date: 2001-08-01
-publishDate: 2019-08-14T23:16:44.689679Z
+publishDate: 2019-08-14T23:22:16.197890Z
 authors: ["Michael Russell", "Gabrielle Allen", "Ian Foster", "Ed Seidel", "Jason Novotny", "John Shalf", "Gregor von Laszewski", "Greg Daues"]
 publication_types: ["1"]
 abstract: ""

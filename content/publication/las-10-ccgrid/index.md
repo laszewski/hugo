@@ -1,7 +1,7 @@
 ---
 title: "Towards Energy Aware Scheduling for Precedence Constrained Parallel Tasks in a Cluster with DVFS"
 date: 2010-05-01
-publishDate: 2019-08-14T23:16:44.749715Z
+publishDate: 2019-08-14T23:22:16.260665Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Jay Dayal", "Fugang Wang"]
 publication_types: ["1"]
 abstract: ""

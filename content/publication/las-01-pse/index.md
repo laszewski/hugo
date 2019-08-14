@@ -1,7 +1,7 @@
 ---
 title: "Designing Grid-based Problem Solving Environments and Portals"
 date: 2001-01-01
-publishDate: 2019-08-14T23:16:44.690547Z
+publishDate: 2019-08-14T23:22:16.198744Z
 authors: ["Gregor von Laszewski", "Ian Foster", "Jarek Gawor", "Peter Lane", "Nell Rehn", "Mike Russell"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Human in the Loop Virtual Machine Management on Comet"
 date: 2019-07-01
-publishDate: 2019-08-14T23:16:44.767393Z
+publishDate: 2019-08-14T23:22:16.277471Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Geoffrey C. Fox", "Shawn Strande", "Christopher Irving", "Trevor Cooper", "Dmitry Mishin", "Michael L. Norman"]
 publication_types: ["1"]
 abstract: ""

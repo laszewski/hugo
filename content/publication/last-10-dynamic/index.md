@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Provisioned Experiments in FutureGrid"
 date: 2010-12-01
-publishDate: 2019-08-14T23:16:44.783973Z
+publishDate: 2019-08-14T23:22:16.294295Z
 authors: ["Gregor von Laszewski", "Geoffrey C. Fox", "Gregor von Laszewski", "Geoffrey C. Fox", "FutureGrid Team"]
 publication_types: ["0"]
 abstract: ""

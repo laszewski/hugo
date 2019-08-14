@@ -1,7 +1,7 @@
 ---
 title: "Virtual Data System on Distributed Virtual Machines in Computational Grids"
 date: 2010-09-01
-publishDate: 2019-08-14T19:42:31.952144Z
+publishDate: 2019-08-14T21:23:26.660961Z
 authors: ["Lizhe Wang", "Gregor Von Laszewski", "Jie Tao", "Marcel Kunze"]
 publication_types: ["2"]
 abstract: ""

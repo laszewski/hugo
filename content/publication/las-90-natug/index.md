@@ -1,7 +1,7 @@
 ---
 title: "A Parallel Genetic Algorithm for the Graph Partitioning Problem"
 date: 1990-10-01
-publishDate: 2019-08-14T19:42:31.968542Z
+publishDate: 2019-08-14T21:23:26.680946Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

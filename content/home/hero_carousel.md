@@ -19,8 +19,8 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = ":rocket: Classes"
-  content = "ENGR-E516 and CSCI-B 649: Engineering Cloud COmputing"
+  title = ":cloud: Classes"
+  content = "ENGR-E516 and CSCI-B 649: Engineering Cloud Computing will introduce you to state-of-the-art cloud technologies"
   
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -61,8 +61,8 @@ height = "300px"
 
 
 [[item]]
-  title = ":page_facing_up: NIST Big Data Refernce Architecture"
-  content = "Volume 8 defines a refernce specification to design Big Data Services"
+  title = ":page_facing_up: NIST Big Data Reference Architecture"
+  content = "Volume 8 defines a reference specification to design Big Data Services"
   align = "center"
 
   # Overlay a color or image (optional).

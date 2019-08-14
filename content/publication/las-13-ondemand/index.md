@@ -1,7 +1,7 @@
 ---
 title: "On-demand Service Hosting on Production Grid Infrastructures"
 date: 2013-01-01
-publishDate: 2019-08-14T19:42:31.960036Z
+publishDate: 2019-08-14T21:23:26.670530Z
 authors: ["Lizhe Wang", "Tobias Kurze", "Jie Tao", "Marcel Kunze", "Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

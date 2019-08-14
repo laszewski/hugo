@@ -17,8 +17,7 @@ weight = 70
 
 ## How do I pronounce my lastname?
 
-Certainly depending on country the pronounciation of my lastname may be
-different. I have been taught by my father and grandfather to ponounce it as follows:
+The pronounciation of my lastname is as follows:
 
 * engl.: `fon La-Chef-Ski`
 * german: `von La-Chef-Ski`

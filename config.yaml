@@ -86,7 +86,7 @@ params:
   projects:
     list_children: true
     post_format: 2
-    publication_format: 4
+    publication_format: 1
     talk_format: 2
   social:
     - icon: envelope

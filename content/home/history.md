@@ -15,6 +15,14 @@ weight = 70
 
 +++
 
+## How do I pronounce my lastname?
+
+Certainly depending on country the pronounciation of my lastname may be
+different. I have been taught by my father and grandfather to ponounce it as follows:
+
+* engl.: `fon La-Chef-Ski`
+* german: `von La-Chef-Ski`
+
 ## What is my coat of arms?
 
 The coat of arms changes over time dependent on various factors.  Here are some variations of the coat of arms.

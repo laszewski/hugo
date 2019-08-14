@@ -2,7 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
@@ -12,7 +12,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 4
 
 # List format.
 #   0 = Simple
@@ -20,7 +20,9 @@ count = 10
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 4
+list_format = 1
+
+
 
 # Filter by publication type.
 # -1: Any
@@ -37,3 +39,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
+> [To see all publications: Please click on this link.](http://localhost:1313/#publications_selected)

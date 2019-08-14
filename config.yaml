@@ -1,0 +1,139 @@
+baseurl: 'http://laszewski.github.io/'
+title: Gregor von Laszewski
+copyright: '&copy; Gregor von Laszewski, 2018'
+theme: academic
+enableEmoji: true
+footnotereturnlinkcontents: <sup>^</sup>
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _files$
+  - _cache$
+preserveTaxonomyNames: true
+paginate: 10
+disqusShortname: ''
+googleAnalytics: ''
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+enableGitInfo: false
+outputs:
+  home:
+    - HTML
+    - CSS
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+blackfriday:
+  hrefTargetBlank: true
+  fractions: true
+  smartypants: true
+params:
+  name: Gregor von Laszewski
+  role: Intelligent Systems Engineering Department
+  organizations:
+    - name: Indiana University
+      url: ''
+  gravatar: false
+  avatar: portrait.jpg
+  email: laszewski@gmail.com
+  address: |-
+    Gregor von Laszewski, Ph.D.
+    Assistant Director, Digital Science Center
+    Adjunct Professor for Intelligent Systems Engineering
+    Indiana University, School of Informatics, Computing and Engineering
+    Multidisciplinary Engineering and Sciences Hall
+    2425 N Milo Sampson Lane
+    Bloomington, IN  47408
+  office_hours: 'by appointment'
+  phone: (812) 856 1311
+  map: 0
+  map_api_key: ''
+  latitude: '37.4275'
+  longitude: '-122.1697'
+  zoom: 15
+  color_theme: cloudmesh
+  font: default
+  description: Home page of Gregor von Laszewski
+  sharing_image: ''
+  logo: ''
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  reading_time: true
+  comment_count: true
+  section_pager: false
+  math: false
+  highlight: true
+  highlight_languages: []
+  sharing: true
+  privacy_pack: false
+  custom_css: []
+  custom_js: []
+  publication_types:
+    - Uncategorized
+    - Conference paper
+    - Journal article
+    - Manuscript
+    - Report
+    - Book
+    - Book section
+  talks:
+    time: true
+  publications:
+    date_format: 'January, 2006'
+  projects:
+    list_children: true
+    post_format: 2
+    publication_format: 4
+    talk_format: 2
+  social:
+    - icon: envelope
+      icon_pack: fas
+      link: '#contact'
+    - icon: google-scholar
+      icon_pack: ai
+      link: 'https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ'
+    - icon: github
+      icon_pack: fab
+      link: 'https://github.com/laszewsk'
+  menus:
+    align_right: true
+  search:
+    engine: 1
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+menu:
+  main:
+    - name: Home
+      url: '#about'
+      weight: 1
+    - name: Publications
+      url: 'publication'
+      weight: 2
+    - name: Posts
+      url: '#posts'
+      weight: 3
+    - name: Projects
+      url: '#projects'
+      weight: 4
+    - name: Software
+      url: '#software'
+      weight: 4
+    - name: History
+      url: '#history'
+      weight: 6
+    - name: Contact
+      url: '#contact'
+      weight: 8
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+languages:
+  en:
+    languageCode: en-us

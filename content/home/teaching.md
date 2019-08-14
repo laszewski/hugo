@@ -19,41 +19,34 @@ I am teaching regular a number of classes and participate also in
 defining content and project for them as well as coordinating the
 TA's.  This includes e222, e516, i523, i524.
 
-
-## Ongoing Classes
+Ongoing Class 
 
 Class                                   | ID        | Semester     | Proceedings | Piazza
 --------------------- |------ | -------- | ------- | -------
-Cloud Computing Engeneering  |  e516  |   Fall 2018           |  Project, Papers | [link](https://piazza.com/class/jgxybbf5rnx5qd)
+Cloud Computing Engineering  |  e516  |   Fall 2019           |  Project, Papers | .
+
+
+
+## Subset of Past Classes
+
+The Piazza for past classes are no longer maintained 
+
+Class                                   | ID        | Semester     | Proceedings | Piazza
+--------------------- |------ | -------- | ------- | -------
+Cloud Computing Engineering  |  e516  |   Fall 2019           |  Project, Papers | .
+Cloud Computing Engineering  |  e516  |   Sping 2019           |  Project, Papers | [link](https://piazza.com/class/jql1e30dxswzu)
+Cloud Computing Engineering  |  e516  |   Fall 2018           |  Project, Papers | [link](https://piazza.com/class/jgxybbf5rnx5qd)
 Big Data  |  i513 |   Fall 2018           |  Project, Papers, Technologies | [link](https://piazza.com/class/jl6rxey6w413gi)
-
-
-
-## Upcomming  Classes
-
-The followng classes will be offered in Spring 2018
-
-Class                                   | ID        | Semester     | Proceedings | Piazza 
---------------------- |------ | -------- | ------- | -------
-Cloud Computing Engeneering  |  e516  |   Spring 2018           |  Project, Papers| link
-Cloud Computing Engeneering  |  e222  |   Spring 2018           |  Project, Papers | link
-
-## Selected Past Classes
-
-The Piazza for these classes are no longer actively maintained and are
-now integrated into the following piazza
-
-Class                                   | ID        | Semester     | Proceedings | Piazza
---------------------- |------ | -------- | ------- | -------
-Cloud Computing Engeneering  |  e516  |   Spring 2018           |  Project, Papers | deactivated
-Big Data  |  e516  |   Spring 2018           |  Project, Papers, Technologies | deactivated
-TBD | e616  | Spring 2018 | Proceedings | [link](https://piazza.com/class/jbkvbp3ed3m2ez )
-TBD | e222  | Spring 2018 | Proceedings | [link](https://piazza.com/class/jc9dcfnbi045kv)
-TBD | i523  | Fall 2017 | Proceedings | [link](https://piazza.com/class/j5wll7vzylg25j)
-TBD | B649/E599  | Spring 2017 | Proceedings | [link](https://piazza.com/class/iwvjk55nbge5yw)
-TBD | i524  | Spring 2017 | Proceedings | [link](https://piazza.com/class/ix39m27czn5uw)
-TBD | i423 | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
-TBD | i523  | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
-TBD | e599  | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
+Cloud Computing Engineering  |  e516  |   Spring 2018           |  Project, Papers| [link](https://piazza.com/class/jql1e30dxswzu)
+Cloud Computing Engineering  |  e222  |   Spring 2018           |  Project, Papers | [link](https://piazza.com/class/jq2u1qfc4o81ox)
+Big Data  |  e516  |   Spring 2018           |  Project, Papers, Technologies | [link](https://piazza.com/class/jql1e30dxswzu)
+Cloud Computing | e616  | Spring 2018 | Proceedings | [link](https://piazza.com/class/jbkvbp3ed3m2ez )
+Intelligent Systems Engineering | e222  | Spring 2018 | Proceedings | [link](https://piazza.com/class/jc9dcfnbi045kv)
+Big Data | i523  | Fall 2017 | Proceedings | [link](https://piazza.com/class/j5wll7vzylg25j)
+Cloud Computing | B649/E599  | Spring 2017 | Proceedings | [link](https://piazza.com/class/iwvjk55nbge5yw)
+Big Data | i524  | Spring 2017 | Proceedings | [link](https://piazza.com/class/ix39m27czn5uw)
+Big Data | i423 | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
+Big Data | i523  | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
+Big Data | e599  | Fall 2016 | Proceedings | [link](https://piazza.com/class/irqfvh1ctrg2vt)
 
 

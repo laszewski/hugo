@@ -1,7 +1,7 @@
 ---
 title: "Toward an Architecture for Ad Hoc Grids"
 date: 2004-12-01
-publishDate: 2019-08-15T01:12:37.649072Z
+publishDate: 2019-08-15T14:11:39.179913Z
 authors: ["Kaizar Amin", "Gregor von Laszewski", "Armin R. Mikler"]
 publication_types: ["1"]
 abstract: ""

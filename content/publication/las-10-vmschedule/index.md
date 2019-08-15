@@ -1,7 +1,7 @@
 ---
 title: "Schedule Distributed Virtual Machines in a Service Oriented Environment"
 date: 2010-04-01
-publishDate: 2019-08-15T01:12:37.681572Z
+publishDate: 2019-08-15T14:11:39.217155Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Jie Tao", "Marcel Kunze"]
 publication_types: ["1"]
 abstract: ""

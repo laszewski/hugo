@@ -1,7 +1,7 @@
 ---
 title: "Active Thermochemical Tables: Thermochemistry for the 21st century"
 date: 2005-01-01
-publishDate: 2019-08-15T01:12:37.654808Z
+publishDate: 2019-08-15T14:11:39.186304Z
 authors: ["Branko Ruscic", "Reinhardt E. Pinzon", "Gregor von Laszewski", "Deepti Kodeboyina", "Alexander Burcat", "David Leahy", "David Montoya", "and Albert F. Wagner"]
 publication_types: ["2"]
 abstract: ""

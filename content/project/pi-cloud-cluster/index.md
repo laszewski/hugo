@@ -1,5 +1,5 @@
 +++
-title = "Cloudmesh Pi Burn"
+title = "Raspberry Pi Cloud Cluster"
 date = 2018-11-24T01:42:40-05:00
 draft = false
 
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/cloudmesh-community/cm-burn"
 url_dataset = ""
 url_project = ""
 url_slides = ""
@@ -45,11 +45,33 @@ url_poster = ""
   focal_point = ""
 +++
 
-## cm-burn
+## Raspberry Pi Cloud Cluster
 
-<https://github.com/cloudmesh-community/cm-burn>
+THis project is open to anyone wanting to work with me on building a
+Raspberry Pi Cloud Cluster. We have 100-200 Raspberry Pis which provide
+an ideal playground for building your own cluster and explore
+distributed computing algorithms on real hardware. In this project you
+would be building a cluster and than putting cloud software on the
+cluster to make it our own cloud service.
+
+Such software can include but is not limited to 
+
+* Docker
+* Kubernetwes
+* Map/Reduce
+
+When chosing this project one must address the issue of dealing with
+many compute resources at a time. THis can be done with PXE boot or with
+our cm-burn.
+
+Students that chose this project will have an office space in the
+building that I sit. In addition each student will be given a 5 node
+cluster thay can work at home on (non smoking environment) that must be
+returned after the project is completed.
 
 
+
+### cm-burn
 
 
 `cm-burn` is a program to burn many SD cards for the preparation of
@@ -74,4 +96,9 @@ with the network addresses `192.168.1.5`, `192.168.1.6`,
 and `192.168.1.7`. The public key is added to the authorized_keys file
 of the pi user.  The password login is automatically disabled and only
 the ssh key authentication is enabled.
+
+## References
+
+* <https://github.com/cloudmesh-community/cm-burn>
+
 

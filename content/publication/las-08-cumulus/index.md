@@ -1,7 +1,7 @@
 ---
 title: "A cumulus project: design and implementation"
 date: 2008-01-01
-publishDate: 2019-08-15T01:12:37.671212Z
+publishDate: 2019-08-15T14:11:39.202731Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Marcel Kunze", "Jie Tao"]
 publication_types: ["4"]
 abstract: ""

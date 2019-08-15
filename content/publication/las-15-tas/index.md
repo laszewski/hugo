@@ -1,7 +1,7 @@
 ---
 title: "TAS View of XSEDE Users and Usage"
 date: 2015-01-01
-publishDate: 2019-08-15T01:12:37.716308Z
+publishDate: 2019-08-15T14:11:39.142645Z
 authors: ["Robert L. DeLeon", "Thomas R. Furlani", "Steven M. Gallo", "Joseph P. White", "Matthew D. Jones", "Abani Patra", "Martins Innus", "Thomas Yearke", "Jeffrey T. Palmer", "Jeanette M. Sperhac", "Ryan Rathsam", "Nikolay Simakov", "Gregor von Laszewski", "Fugang Wang"]
 publication_types: ["1"]
 abstract: ""

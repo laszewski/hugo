@@ -1,5 +1,5 @@
 +++
-title = "Cloudmesh Graphql"
+title = "Cloudmesh JavaScript User Interface"
 date = 2018-11-24T01:41:19-05:00
 draft = false
 
@@ -32,7 +32,7 @@ url_poster = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -44,3 +44,5 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+Please contact me if you like to help developing a JavaScript Graphical user interface

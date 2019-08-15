@@ -1,7 +1,7 @@
 ---
 title: "Swift: Fast, Reliable, Loosely Coupled Parallel Computation"
 date: 2007-01-01
-publishDate: 2019-08-15T01:12:37.624423Z
+publishDate: 2019-08-15T14:11:39.146632Z
 authors: ["Yong Zhao", "M. Hategan", "B. Clifford", "I. Foster", "G. von Laszewski", "V. Nefedova", "I. Raicu", "T. Stef-Praun", "M. Wilde"]
 publication_types: ["1"]
 abstract: ""

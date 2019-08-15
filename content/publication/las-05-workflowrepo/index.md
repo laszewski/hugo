@@ -1,7 +1,7 @@
 ---
 title: "A Repository Service for Grid Workflow Components"
 date: 2005-10-01
-publishDate: 2019-08-15T01:12:37.660287Z
+publishDate: 2019-08-15T14:11:39.191391Z
 authors: ["Gregor von Laszewski", "Deepti Kodeboyina"]
 publication_types: ["1"]
 abstract: ""

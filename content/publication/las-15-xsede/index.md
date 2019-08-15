@@ -1,7 +1,7 @@
 ---
 title: "Peer comparison of XSEDE publication data"
 date: 2015-07-01
-publishDate: 2019-08-15T01:12:37.692646Z
+publishDate: 2019-08-15T14:11:39.228277Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Geoffrey C. Fox", "David L. Hart", "Thomas R. Furlani", "Robert L. DeLeon", "Steven M. Gallo"]
 publication_types: ["1"]
 abstract: ""

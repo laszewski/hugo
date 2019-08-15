@@ -19,7 +19,8 @@ weight = 70
 
 The pronounciation of my lastname is as follows:
 
-* engl.: `fon La-Chef-Ski`
+* phonetic: fɒn lɑːʃɛfskiː
+* engl.: `fon La-Chef-Ski` 
 * german: `von La-Chef-Ski`
 
 ## What is my coat of arms?
@@ -56,3 +57,7 @@ please note that the information refers to the early use of the name. It is rela
 18. Josef Anton von Laszewski
 19. Reinhard Josef von Laszewski – Allenstein – Stankt Augustin
 20. Gregor von Laszewski – Sankt Augustin – Columbus, OH – Syracuse, NY – Washington, DC – Bolingbrook, IL – Pittsford, NY – Bloomington, IN
+
+To find out more, about the family tries of Laszewski's please visit:
+
+* <http://zelberschwecht.com/>

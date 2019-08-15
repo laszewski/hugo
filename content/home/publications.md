@@ -3,7 +3,7 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = false
-date = 2016-04-20T00:00:00
+date = 2019-08-15
 
 title = "Recent Publications"
 subtitle = ""
@@ -39,4 +39,4 @@ publication_type = "-1"
 exclude_selected = false
 +++
 
-> [To see all publications: Please click on this link.](http://localhost:1313/#publications_selected)
+> [To see all publications: Please click on this link.](#publications_selected)

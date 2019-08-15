@@ -1,6 +1,6 @@
 +++
 title = "Multi-Cloud Mangement with Cloudmesh"
-date = 2018-11-24T01:41:13-05:00
+date = 2019-08-15
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -29,10 +29,15 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+url_custom = [
+{icon_pack = "fab", icon="file", name="Manual", url = "https://cloudmesh.github.io/cloudmesh-manual/"},
+{icon_pack = "fab", icon="github", name="Installer", url = "https://cloudmesh.github.io/cloudmesh-installer/"},
+{icon_pack = "fab", icon="github", name="Repo", url = "https://cloudmesh.github.io/cloudmesh"},
+{icon_pack = "fab", icon="github", name="Cloud", url = "https://cloudmesh.github.io/cloudmesh-cloud/"},
+{icon_pack = "fab", icon="github", name="Configuration", url = "https://cloudmesh.github.io/cloudmesh-configuration/"},
+{icon_pack = "fab", icon="github", name="Sys", url = "https://cloudmesh.github.io/cloudmesh-sys/"},
+{icon_pack = "fab", icon="github", name="Workflow", url = "https://cloudmesh.github.io/cloudmesh-flow/"},
+]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

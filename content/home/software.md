@@ -1,7 +1,7 @@
 +++
 widget = "custom"
 active = false
-date = 2018-11-01
+date = 2019-08-15
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Selected Software"

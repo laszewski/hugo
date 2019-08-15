@@ -1,7 +1,7 @@
 ---
 title: "FutureGrid Image Repository: A Generic Catalog and Storage System for Heterogeneous Virtual Machine Images"
 date: 2011-12-01
-publishDate: 2019-08-15T14:11:39.138431Z
+publishDate: 2019-08-15T17:39:42.643691Z
 authors: ["Javier Diaz", "Gregor von Laszewski", "Fugang Wang", "Andrew J Younge", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

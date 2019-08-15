@@ -1,7 +1,7 @@
 ---
 title: "Providing a Green Framework for Cloud Based Data Centers"
 date: 2011-01-01
-publishDate: 2019-08-15T14:11:39.219619Z
+publishDate: 2019-08-15T17:39:42.709186Z
 authors: ["A. J. Younge", "Gregor von Laszewski", "L. Wang", "G. C. Fox"]
 publication_types: ["6"]
 abstract: ""

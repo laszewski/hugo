@@ -1,7 +1,7 @@
 ---
 title: "Comet: Tales from the Long Tail: Two Years in and 10,000 users later"
 date: 2017-01-01
-publishDate: 2019-08-15T14:11:39.248641Z
+publishDate: 2019-08-15T17:39:42.735229Z
 authors: ["Shawn M Strande", "Haisong Cai", "Trevor Cooper", "Karen Flammer", "Christopher Irving", "Gregor von Laszewski", "Amit Majumdar", "Dmistry Mishin", "Philip Papadopoulos", "Wayne Pfeiffer", " others"]
 publication_types: ["1"]
 abstract: ""

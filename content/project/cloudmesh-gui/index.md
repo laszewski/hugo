@@ -1,6 +1,6 @@
 +++
 title = "Cloudmesh JavaScript User Interface"
-date = 2018-11-24T01:41:19-05:00
+date = 2019-08-15
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -29,10 +29,10 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com"}]
+#url_custom = [{icon_pack = "fab", icon="file", name="Paper 1", url = "https://dl.acm.org/citation.cfm?doid=3219104.3219124"},
+#{icon_pack = "fab", icon="file", name="Paper 2", url = "https://ieeexplore.ieee.org/document/7307645"},
+#{icon_pack = "fab", icon="file", name="Paper 3", url = "http://doi.acm.org/10.1145/2616498.2616507"},
+#{icon_pack = "fab", icon="file", name="Paper 4", url = "http://doi.acm.org/10.1145/2792745.2792766"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

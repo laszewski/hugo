@@ -1,6 +1,6 @@
 +++
 title = "NIST Big Data"
-date = 2018-11-24T01:42:26-05:00
+date = 2019-08-15
 draft = false
 
 # Tags: can be used for filtering projects.

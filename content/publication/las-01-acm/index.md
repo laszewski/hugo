@@ -1,7 +1,7 @@
 ---
 title: "Multi-Paradigm Communications in Java for Grid Computing"
 date: 2001-10-01
-publishDate: 2019-08-15T14:11:39.149666Z
+publishDate: 2019-08-15T17:39:42.652555Z
 authors: ["Vladimir Getov", "Gregor von Laszewski", "Michael Philippsen", "Ian Foster"]
 publication_types: ["2"]
 abstract: ""

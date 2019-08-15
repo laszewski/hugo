@@ -1,7 +1,7 @@
 ---
 title: "Reputation-based Grid Resource Selection"
 date: 2003-09-01
-publishDate: 2019-08-15T14:11:39.174315Z
+publishDate: 2019-08-15T17:39:42.673073Z
 authors: ["Beulah Alunkal", "Ivana Veljkovic", "Gregor von Laszewski", "Kaizar Amin"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Big Data and Open Source Software on Chameleon Cloud"
 date: 2017-01-01
-publishDate: 2019-08-15T14:11:39.250102Z
+publishDate: 2019-08-15T17:39:42.736152Z
 authors: ["Gergor von Laszewski", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

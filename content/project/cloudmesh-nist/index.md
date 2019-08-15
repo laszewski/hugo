@@ -44,3 +44,7 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
+{{< ref "publication/las-19-nist" >}}
+

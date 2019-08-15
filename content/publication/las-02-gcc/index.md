@@ -1,7 +1,7 @@
 ---
 title: "A QoS Guided Scheduling Algorithm for the Computational Grid"
 date: 2002-12-01
-publishDate: 2019-08-14T23:22:16.204146Z
+publishDate: 2019-08-15T01:12:37.633143Z
 authors: ["X. He", "X. -H. Sun", "G. Laszewski"]
 publication_types: ["1"]
 abstract: ""

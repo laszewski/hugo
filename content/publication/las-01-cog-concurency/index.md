@@ -1,7 +1,7 @@
 ---
 title: "A Java Commodity Grid Kit"
 date: 2001-01-01
-publishDate: 2019-08-14T23:22:16.195328Z
+publishDate: 2019-08-15T01:12:37.628014Z
 authors: ["Gregor von Laszewski", "Ian Foster", "Jarek Gawor", "Peter Lane"]
 publication_types: ["2"]
 abstract: ""

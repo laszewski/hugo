@@ -1,7 +1,7 @@
 ---
 title: "The Java CoG Kit Experiment Manager"
 date: 2005-06-01
-publishDate: 2019-08-14T23:22:16.232914Z
+publishDate: 2019-08-15T01:12:37.656373Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["4"]
 abstract: ""

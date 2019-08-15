@@ -1,7 +1,7 @@
 ---
 title: "Key Concepts and Services of a Grid Information Service"
 date: 2002-09-01
-publishDate: 2019-08-14T23:22:16.208383Z
+publishDate: 2019-08-15T01:12:37.635952Z
 authors: ["Beth Plale", "Peter Dinda", "Mike Helm", "Gregor von Laszewski", "John McGee"]
 publication_types: ["1"]
 abstract: ""

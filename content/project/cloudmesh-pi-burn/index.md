@@ -47,7 +47,10 @@ url_poster = ""
 
 ## cm-burn
 
-* github: <https://github.com/cloudmesh-community/cm-burn>
+<https://github.com/cloudmesh-community/cm-burn>
+
+
+
 
 `cm-burn` is a program to burn many SD cards for the preparation of
 building clusters with Raspberry Pi's.  The program is developed in

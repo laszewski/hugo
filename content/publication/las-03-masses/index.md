@@ -1,7 +1,7 @@
 ---
 title: "Grid Computing for the Masses: An Overview"
 date: 2003-12-01
-publishDate: 2019-08-14T23:22:16.217272Z
+publishDate: 2019-08-15T01:12:37.643548Z
 authors: ["Kaizar Amin", "Gregor von Laszewski", "Armin R. Mikler"]
 publication_types: ["1"]
 abstract: ""

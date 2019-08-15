@@ -1,7 +1,7 @@
 ---
 title: "Enabling Energy-Efficient Analysis of Massive Neural Signals Using GPGPU"
 date: 2010-01-01
-publishDate: 2019-08-14T23:22:16.183080Z
+publishDate: 2019-08-15T01:12:37.616898Z
 authors: ["Dan Chen", "Lizhe Wang", "Shuaiting Wang", "Muzhou Xiong", "Gregor von Laszewski", "Xiaoli Li"]
 publication_types: ["1"]
 abstract: ""

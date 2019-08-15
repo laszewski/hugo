@@ -1,7 +1,7 @@
 ---
 title: "Abstracting the Grid"
 date: 2004-02-01
-publishDate: 2019-08-14T23:22:16.223549Z
+publishDate: 2019-08-15T01:12:37.648329Z
 authors: ["Kaizar Amin", "Mihael Hategan", "Gregor von Laszewski", "Nestor J. Zaluzec"]
 publication_types: ["1"]
 abstract: ""

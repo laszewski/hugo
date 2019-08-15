@@ -1,7 +1,7 @@
 ---
 title: "Simulation of Threat Management of Urban Water Distribution Systems with Grid Workflow"
 date: 2011-04-01
-publishDate: 2019-08-14T23:22:16.269118Z
+publishDate: 2019-08-15T01:12:37.685143Z
 authors: ["Gregor von Laszewski", "Lizhe Wang", "Fugang Wang"]
 publication_types: ["1"]
 abstract: ""

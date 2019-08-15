@@ -1,7 +1,7 @@
 ---
 title: "Workflow Concepts of the Java CoG Kit"
 date: 2005-01-01
-publishDate: 2019-08-14T23:22:16.236625Z
+publishDate: 2019-08-15T01:12:37.659633Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

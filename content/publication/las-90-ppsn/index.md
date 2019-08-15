@@ -1,7 +1,7 @@
 ---
 title: "Partitioning a graph with a parallel genetic algorithm"
 date: 1991-10-01
-publishDate: 2019-08-14T23:22:16.282662Z
+publishDate: 2019-08-15T01:12:37.698621Z
 authors: ["Gregor von Laszewski", "Heinz Mühlenbein"]
 publication_types: ["1"]
 abstract: ""

@@ -41,7 +41,7 @@ height = "300px"
 
 [[item]]
   title = ":cloud: Cloudmesh"
-  content = "A multi cloud framework using Virtual machines, containers, and Function as a Service"
+  content = "A multi cloud framework using virtual machines, containers, and Function as a Service"
   
   align = "center"  # Choose `center`, `left`, or `right`.
 

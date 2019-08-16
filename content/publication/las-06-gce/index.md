@@ -1,7 +1,7 @@
 ---
 title: "Grid Computing Environments 2006 Confernce Proceeedings"
 date: 2006-11-01
-publishDate: 2019-08-15T17:39:42.690789Z
+publishDate: 2019-08-15T17:41:36.975946Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["0"]
 abstract: ""

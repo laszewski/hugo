@@ -21,6 +21,7 @@ slides = ""
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
+
 # Links (optional).
 url_pdf = ""
 url_code = ""
@@ -31,12 +32,12 @@ url_video = ""
 url_poster = ""
 url_custom = [
 {icon_pack = "fab", icon="file", name="Manual", url = "https://cloudmesh.github.io/cloudmesh-manual/"},
-{icon_pack = "fab", icon="github", name="Installer", url = "https://cloudmesh.github.io/cloudmesh-installer/"},
-{icon_pack = "fab", icon="github", name="Repo", url = "https://cloudmesh.github.io/cloudmesh"},
-{icon_pack = "fab", icon="github", name="Cloud", url = "https://cloudmesh.github.io/cloudmesh-cloud/"},
-{icon_pack = "fab", icon="github", name="Configuration", url = "https://cloudmesh.github.io/cloudmesh-configuration/"},
-{icon_pack = "fab", icon="github", name="Sys", url = "https://cloudmesh.github.io/cloudmesh-sys/"},
-{icon_pack = "fab", icon="github", name="Workflow", url = "https://cloudmesh.github.io/cloudmesh-flow/"},
+{icon_pack = "fab", icon="github", name="Installer", url = "https://github.com/cloudmesh/cloudmesh-installer/"},
+{icon_pack = "fab", icon="github", name="Repo", url = "https://github.com/cloudmesh/"},
+{icon_pack = "fab", icon="github", name="Cloud", url = "https://github.com/cloudmesh/cloudmesh-cloud/"},
+{icon_pack = "fab", icon="github", name="Configuration", url = "https://github.com/cloudmesh/cloudmesh-configuration/"},
+{icon_pack = "fab", icon="github", name="Sys", url = "https://github.com/cloudmesh/cloudmesh-sys/"},
+{icon_pack = "fab", icon="github", name="Workflow", url = "https://github.com/cloudmesh/cloudmesh-flow/"},
 ]
 
 # Featured image
@@ -75,7 +76,7 @@ providers.
 
 It is under active development and managed in github at
 
--   Documentation: <https://cloudmesh.github.io/cloudmesh-manual/>
+-   Documentation: <https://github.com/cloudmesh/cloudmesh-manual/>
 -   Code: <https://github.com/cloudmesh/>
 
 It has a variety of repositories that add features to cloudmesh based on
@@ -99,6 +100,6 @@ Features
 
 It is under active development and managed in github at
 
-- Documentation: https://cloudmesh.github.io/cloudmesh-manual/
+- Documentation: https://github.com/cloudmesh/cloudmesh-manual/
 - Code: https://github.com/cloudmesh/
 

@@ -1,7 +1,7 @@
 ---
 title: "Middleware for Communications"
 date: 2004-01-01
-publishDate: 2019-08-15T17:39:42.681982Z
+publishDate: 2019-08-15T17:41:36.964954Z
 authors: ["Gregor von Laszewski", "Kaizar Amin"]
 publication_types: ["6"]
 abstract: ""

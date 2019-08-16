@@ -1,7 +1,7 @@
 ---
 title: "An OGSA-based Quality of Service Framework"
 date: 2004-12-01
-publishDate: 2019-08-15T17:39:42.672248Z
+publishDate: 2019-08-15T17:41:36.956534Z
 authors: ["Rashid Al-Ali", "Kaizar Amin", "Gregor von Laszewski", "Omer Rana", "David Walker"]
 publication_types: ["1"]
 abstract: ""

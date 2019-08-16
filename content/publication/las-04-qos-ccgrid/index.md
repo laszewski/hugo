@@ -1,7 +1,7 @@
 ---
 title: "QoS Support for High-performance Scientific Grid Applications"
 date: 2004-04-01
-publishDate: 2019-08-15T17:39:42.675617Z
+publishDate: 2019-08-15T17:41:36.958844Z
 authors: ["Rashid Al-Ali", "Gregor von Laszewski", "Kaizar Amin", "Mihael Hategan", "Omer Rana", "David Walker", "Nester Zaluzec"]
 publication_types: ["1"]
 abstract: ""

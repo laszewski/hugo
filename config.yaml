@@ -47,6 +47,8 @@ params:
     Multidisciplinary Engineering and Sciences Hall
     2425 N Milo Sampson Lane
     Bloomington, IN  47408
+
+    There is a free shuttle to the building.
   office_hours: 'by appointment'
   phone: (812) 856 1311
   map: 0
@@ -127,6 +129,9 @@ menu:
     - name: History
       url: '#history'
       weight: 6
+    - name: Free Shuttle
+      url: '/post/shuttle'
+      weight: 7
     - name: Contact
       url: '#contact'
       weight: 8

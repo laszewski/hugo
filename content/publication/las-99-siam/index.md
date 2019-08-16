@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Analysis, Visualization, and Steering of Microtomography Experiments at Photon Sources"
 date: 1999-03-01
-publishDate: 2019-08-15T17:39:42.730927Z
+publishDate: 2019-08-15T17:41:37.018210Z
 authors: ["Gregor von Laszewski", "Mei-Hui Su", "Joseph A. Insley", "Ian Foster", "John Bresnahan", "Carl Kesselman", "Marcus Thiebaux", "Mark L. Rivers", "Steve Wang", "Brian Tieman", "Ian McNulty"]
 publication_types: ["1"]
 abstract: ""

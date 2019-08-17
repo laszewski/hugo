@@ -1,7 +1,7 @@
 ---
 title: "Cyberaide JavaScript: A JavaScript Commodity Grid Kit"
 date: 2008-11-01
-publishDate: 2019-08-17T08:04:20.089181Z
+publishDate: 2019-08-17T13:42:58.035880Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Andrew Younge", "Xi He", "Zhenhua Guo", "Marlon Pierce"]
 publication_types: ["1"]
 abstract: ""

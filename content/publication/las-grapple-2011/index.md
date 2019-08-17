@@ -1,7 +1,7 @@
 ---
 title: "Grappling cloud infrastructure services with a generic image repository"
 date: 2011-04-01
-publishDate: 2019-08-17T08:04:20.045305Z
+publishDate: 2019-08-17T13:42:57.984716Z
 authors: ["Javier Diaz", "Andrew Younge", "Gregor von Laszewski", " FugangWang", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

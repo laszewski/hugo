@@ -1,7 +1,7 @@
 ---
 title: "The Open Grid Computing Environments collaboration: portlets and services for science gateways"
 date: 2007-01-01
-publishDate: 2019-08-17T08:04:20.088131Z
+publishDate: 2019-08-17T13:42:58.034582Z
 authors: ["Jay Alameda", "Marcus Christie", "Geoffrey Fox", "Joe Futrelle", "Dennis Gannon", "Mihael Hategan", "Gopi Kandaswamy", "Gregor von Laszewski", "Mehmet A. Nacar", "Marlon Pierce", "Eric Roberts", "Charles Severance", "Mary Thomas"]
 publication_types: ["2"]
 abstract: ""

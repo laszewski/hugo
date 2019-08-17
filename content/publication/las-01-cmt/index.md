@@ -1,7 +1,7 @@
 ---
 title: "A High-Throughput X-Ray Microtomography System at the Advanced Photon Source"
 date: 2001-04-01
-publishDate: 2019-08-17T08:04:20.051858Z
+publishDate: 2019-08-17T13:42:57.990193Z
 authors: ["Yuxin Wang", "Fransesco De Carlo", "Derrick Mancini", "Ian McNulty", "Brian Tieman", "John Bresnahan", "Ian Foster", "Joseph Insley", "Peter Lane", "Gregor von Laszewski", "Carl Kesselman", "Mei-Hui Su", "Marcus Thiebaux"]
 publication_types: ["2"]
 abstract: ""

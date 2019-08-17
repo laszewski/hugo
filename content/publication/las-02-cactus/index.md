@@ -1,7 +1,7 @@
 ---
 title: "Community Software Development with the Astrophysics Simulation Collaboratory"
 date: 2002-01-01
-publishDate: 2019-08-17T08:04:20.057005Z
+publishDate: 2019-08-17T13:42:57.995223Z
 authors: ["Gregor von Laszewski", "Michael Russell", "Ian Foster", "John Shalf", "Gabrielle Allen", "Greg Daues", "Jason Novotny", "Edward Seidel"]
 publication_types: ["2"]
 abstract: ""

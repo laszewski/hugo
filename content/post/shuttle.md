@@ -1,10 +1,7 @@
 +++
 title = "Shuttle"
-date = 2018-11-24T01:33:02-05:00
+date = 2019-08-16
 draft = false
-
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 categories = []
 
@@ -19,37 +16,33 @@ categories = []
   focal_point = ""
 +++
 
-Hello Engineering Students, Faculty, and Staff!
- 
-As the semester approaches, I wanted to remind everyone that there is a
-shuttle to transport ISE students and personnel between Luddy Hall and
+There is a **free** shuttle to transport students between Luddy Hall and
 MESH during the academic year when class is in session.
- 
-Shuttle Service between Luddy Hall & MESH is available 
 
-* **Monday – Friday from 8AM – 5PM**
+* Availability: 
+  * **Monday – Friday from 8AM – 5PM** 
+* Reservation: 
+  * **Call 812-855-5043 at least 10 minutes before a ride**. 
+  Rides must be scheduled on the same day.
+* Limitations: 
+  * Starts August 26th and will follow the academic calendar
+    for holidays and breaks. Riders need to be at the pick-up location at
+    the time requested.
+* Pickup and drop off: 
+  * Luddy Hall from the corner of
+    11th Street and North Forrest Avenue.
+  * MESH: Front door
+  
 
-from IU Fleet Services DSS Van Service.  Call
-812-855-5043 at least 10 minutes before a ride is needed to request a
-ride.  Shuttle requests can be scheduled hours or days in advance as
-well.
- 
-Service will start Monday, August 26th and will follow the academic
-calendar for holidays and breaks.
- 
-The pickup / drop off locations at both buildings are: Luddy
-Hall—Pickup/Drop Off from the corner of 11th Street and North Forrest
-Avenue.
- 
-Riders need to be at the pick-up location at the time requested –
-drivers are on a schedule and cannot wait for riders for extended
-periods of time.  Driver will leave if the rider is not at the pick-up
-location within one minute of the requested time.  If a ride is missed,
-riders will have to call and request another ride.
- 
-Please let me know if you have any questions or if any issues arise.  I
-hope you have a wonderful semester!
- 
-Cheers,
-Julie
- 
+## Other 
+
+
+* {{< fa car >}} There is plenty of ST parking at MESH in case you have your own car
+* [{{< fa walking >}} 33 min](https://www.google.com/maps/dir/Luddy+Hall-School+of+Informatics,+Computing,+and+Engineering,+North+Woodlawn+Avenue,+Bloomington,+IN/Integrated+Science+and+Accelerator+Technology+Hall+(ISAT),+2425+N+Milo+B+Sampson+Ln,+Bloomington,+IN+47408/@39.1819392,-86.5302594,15z/data=!4m19!4m18!1m10!1m1!1s0x886c66c6e3fb15f3:0x5ff3f26dda5a28a!2m2!1d-86.522974!2d39.172971!3m4!1m2!1d-86.519682!2d39.1859174!3s0x886c66b554060fd9:0x3a5779252a782628!1m5!1m1!1s0x886c613437918d4b:0x17d28e7c953b9d48!2m2!1d-86.5229357!2d39.1898917!3e2)
+  Make sure to cross at a traffic light.
+  
+Commercial transportation:
+
+* [Lime Scooter](https://www.li.me/)
+* [Uber](https://www.uber.com/us/en/ride/)
+* [Taxi](https://www.google.com/search?q=taxi+bloomington+in&rlz=1C5CHFA_enUS829US829&oq=taxi+bloomington+in)

@@ -1,7 +1,7 @@
 ---
 title: "A Unicore Globus Interoperability Layer"
 date: 2002-01-01
-publishDate: 2019-08-17T08:04:20.059774Z
+publishDate: 2019-08-17T13:42:57.999883Z
 authors: ["David Snelling", "Sven van den Berghe", "Gregor von Laszewski", "Philipp Wieder", "D. Breuer", "Jon MacLaren", "Denis Nicole", "John Brooke", "Hans-Christian Hoppe."]
 publication_types: ["2"]
 abstract: ""

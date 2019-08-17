@@ -1,7 +1,7 @@
 ---
 title: "Power-Aware Scheduling of Virtual Machines in DVFS-enabled Clusters"
 date: 2009-08-01
-publishDate: 2019-08-17T08:04:20.095512Z
+publishDate: 2019-08-17T13:42:58.042693Z
 authors: ["Gregor von Laszewski", "Lizhe Wang", "Andrew J. Younge", "Xi He"]
 publication_types: ["1"]
 abstract: ""

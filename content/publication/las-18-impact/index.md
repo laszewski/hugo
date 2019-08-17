@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Scientific Impact of XSEDE"
 date: 2018-01-01
-publishDate: 2019-08-15T17:41:36.936314Z
+publishDate: 2019-08-17T08:04:20.030116Z
 authors: ["Fugang Wang", "Gregor von Laszewski", "Timothy Whitson", "Geoffrey C Fox", "Thomas R Furlani", "Robert L DeLeon", "Steven M Gallo"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Design Issues for the Parallelization of an Optimal Interpolation Algorithm"
 date: 1994-11-01
-publishDate: 2019-08-15T17:41:37.010683Z
+publishDate: 2019-08-17T08:04:20.118008Z
 authors: ["Gregor von Laszewski", "Mike Seablom", "Milo Makivic", "Peter Lyster", "Sanya Ranka"]
 publication_types: ["1"]
 abstract: ""

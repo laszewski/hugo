@@ -38,14 +38,8 @@ Service will start Monday, August 26th and will follow the academic
 calendar for holidays and breaks.
  
 The pickup / drop off locations at both buildings are: Luddy
-Hall—Pickup/Drop Off from the corner of 11th Street and Cottage Grove
-MESH—Pickup/Drop Off at either north or east entrance, but please
-specify which when requesting service.  North is the main ISE entrance
-at the far end of the parking lots, east is the CEEM entrance you
-typically drive past to get to the north entrance.  We encourage you to
-use the north entrance, but if you must use the east entrance, please do
-not ask CEEM staff for directions or assistance.  ISE staff at the north
-entrance are happy to help you find whatever room you are looking for.
+Hall—Pickup/Drop Off from the corner of 11th Street and North Forrest
+Avenue.
  
 Riders need to be at the pick-up location at the time requested –
 drivers are on a schedule and cannot wait for riders for extended

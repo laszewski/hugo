@@ -33,8 +33,8 @@ height = "300px"
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "IU Registrar"
-  cta_url = "https://registrar.indiana.edu/browser/soc4192/ENGR/ENGR-E516.shtml"
+  cta_label = "click here for more information"
+  cta_url = "/post/class"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 

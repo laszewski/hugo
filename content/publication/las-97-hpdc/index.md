@@ -1,7 +1,7 @@
 ---
 title: "A Directory Service for Configuring High-Performance Distributed Computations"
 date: 1997-08-01
-publishDate: 2019-08-15T17:41:37.012429Z
+publishDate: 2019-08-17T08:04:20.118998Z
 authors: ["Steve Fitzgerald", "Ian Foster", "Carl Kesselman", "Gregor von Laszewski", "Warren Smith", "Steve Tuecke"]
 publication_types: ["1"]
 abstract: ""

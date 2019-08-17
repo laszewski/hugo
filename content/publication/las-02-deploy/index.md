@@ -1,7 +1,7 @@
 ---
 title: "Software, Component, and Service Deployment in Computational Grids"
 date: 2002-06-01
-publishDate: 2019-08-15T17:41:36.947263Z
+publishDate: 2019-08-17T08:04:20.058657Z
 authors: ["Gregor von Laszewski", "Eric Blau", "Michael Bletzinger", "Jarek Gawor", "Peter Lane", "Stuart Martin", "Michael Russell"]
 publication_types: ["1"]
 abstract: ""

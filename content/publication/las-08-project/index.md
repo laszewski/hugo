@@ -1,7 +1,7 @@
 ---
 title: "e-Science Project and Experiment Management with Microsoft Project"
 date: 2008-11-01
-publishDate: 2019-08-15T17:41:36.983650Z
+publishDate: 2019-08-17T08:04:20.090049Z
 authors: ["Gregor von Laszewski", "Leor E. Dilmanian"]
 publication_types: ["1"]
 abstract: ""

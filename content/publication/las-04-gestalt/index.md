@@ -1,7 +1,7 @@
 ---
 title: "Gestalt of the Grid"
 date: 2004-01-01
-publishDate: 2019-08-17T13:42:58.018856Z
+publishDate: 2019-08-17T14:03:57.917884Z
 authors: ["Gregor von Laszewski", "Patrick Wagstrom"]
 publication_types: ["6"]
 abstract: ""

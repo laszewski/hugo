@@ -1,7 +1,7 @@
 ---
 title: "GreenIT Service Level Agreements"
 date: 2010-01-01
-publishDate: 2019-08-17T13:42:58.050198Z
+publishDate: 2019-08-17T14:03:57.941711Z
 authors: ["Gregor von Laszewski", "Lizhe Wang"]
 publication_types: ["6"]
 abstract: ""

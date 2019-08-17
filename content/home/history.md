@@ -17,7 +17,7 @@ weight = 70
 
 ## How do I pronounce my lastname?
 
-The pronounciation of my lastname is as follows:
+The pronunciation of my lastname is as follows:
 
 * phonetic: fɒn lɑːʃɛfskiː
 * engl.: `fon La-Chef-Ski` 
@@ -31,9 +31,12 @@ The coat of arms changes over time dependent on various factors.  Here are some 
 
 ## Where does my name come from?
 
-Often I am asked where my name comes from. If you like to know more, 
-please check out the information about the name `von Laszewski`. However, 
-please note that the information refers to the early use of the name. It is related to a teitonic knight called `Zelberschwecht`. At one point in history they took on the name of the town `Laszewo` where they used to live. 
+Often I am asked where my name comes from. If you like to know more,
+please check out the information about the name `von Laszewski`.
+However, please note that the information refers to the early use of the
+name. It is related to a teutonic knight called `Zelberschwecht`. At one
+point in history they took on the name of the town `Laszewo` where they
+used to live.
 
 ## How am I fitting in the family line?
 

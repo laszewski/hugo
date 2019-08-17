@@ -1,7 +1,7 @@
 ---
 title: "Work coordination for Grid computing"
 date: 2006-01-01
-publishDate: 2019-08-17T13:42:58.031812Z
+publishDate: 2019-08-17T14:03:57.928379Z
 authors: ["Gregor von Laszewski", "Mihael Hategan", "Deepti Kodeboyina"]
 publication_types: ["6"]
 abstract: ""

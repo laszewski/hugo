@@ -1,5 +1,5 @@
 +++
-title = "Python"
+title = "Python for Cloud Computing"
 date = 2019-08-15
 draft = false
 tags = []

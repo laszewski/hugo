@@ -1,7 +1,7 @@
 ---
 title: "Contributions to High-Performance Big Data Computing"
 date: 2018-01-01
-publishDate: 2019-08-18T15:53:37.008302Z
+publishDate: 2019-08-18T17:32:02.611038Z
 authors: ["Oliver Beckstein", "Geoffrey Fox", "Judy Qiu", "David Crandall", "Gregor von Laszewski", "John Paden", "Shantenu Jha", "Fusheng Wang", "Madhav Marathe", "Anil Vullikanti", " others"]
 publication_types: ["4"]
 abstract: ""

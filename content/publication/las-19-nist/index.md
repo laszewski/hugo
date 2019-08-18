@@ -1,7 +1,7 @@
 ---
 title: "NIST Big Data Interoperability Framework: Volume 8, Reference Architecture Interfaces"
 date: 2019-06-01
-publishDate: 2019-08-18T15:53:37.021033Z
+publishDate: 2019-08-18T17:32:02.643138Z
 authors: ["Wo. L Chang Gregor von Laszewski"]
 publication_types: ["4"]
 abstract: ""

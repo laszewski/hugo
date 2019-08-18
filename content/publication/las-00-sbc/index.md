@@ -1,7 +1,7 @@
 ---
 title: "Using Computational Grid Capabilities to Enhance the Ability of an X-Ray Source for Structural Biology"
 date: 2000-01-01
-publishDate: 2019-08-18T15:53:37.024276Z
+publishDate: 2019-08-18T17:32:02.655087Z
 authors: ["Gregor von Laszewski", "Mary Westbrook", "Ian Foster", "Edwin Westbrook", "Craig Barnes"]
 publication_types: ["2"]
 abstract: ""

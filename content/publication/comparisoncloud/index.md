@@ -1,7 +1,7 @@
 ---
 title: "Comparison of Multiple Cloud Frameworks"
 date: 2012-06-01
-publishDate: 2019-08-18T15:53:37.010114Z
+publishDate: 2019-08-18T17:32:02.635485Z
 authors: ["Gregor von Laszewski", "Javier Diaz", "Fugang Wang", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

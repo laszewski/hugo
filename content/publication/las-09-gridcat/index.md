@@ -1,7 +1,7 @@
 ---
 title: "Cyberaide Creative: On-Demand Cyberinfrastructure Provision in Clouds"
 date: 2009-12-01
-publishDate: 2019-08-17T14:03:57.936942Z
+publishDate: 2019-08-18T15:53:37.073550Z
 authors: ["Casey Rathbone", "Lizhe Wang", "Gregor von Laszewski", "Fugang Wang"]
 publication_types: ["1"]
 abstract: ""

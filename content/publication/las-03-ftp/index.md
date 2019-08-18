@@ -1,7 +1,7 @@
 ---
 title: "A File Transfer Component for Grids"
 date: 2003-06-01
-publishDate: 2019-08-17T14:03:57.909534Z
+publishDate: 2019-08-18T15:53:37.038445Z
 authors: ["Gregor von Laszewski", "Beulah Alunkal", "Jarek Gawor", "Ravi Madhuri", "Pawel Plaszczak", "Xian-He Sun"]
 publication_types: ["1"]
 abstract: ""

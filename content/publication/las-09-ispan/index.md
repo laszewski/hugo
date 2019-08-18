@@ -1,7 +1,7 @@
 ---
 title: "Towards Thermal Aware Workload Scheduling in a Data Center"
 date: 2009-12-01
-publishDate: 2019-08-17T14:03:57.938544Z
+publishDate: 2019-08-18T15:53:37.075200Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Jai Dayal", "Xi He", "Andrew J. Younge", "Thomas R. Furlani"]
 publication_types: ["1"]
 abstract: ""

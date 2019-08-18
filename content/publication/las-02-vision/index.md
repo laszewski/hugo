@@ -1,7 +1,7 @@
 ---
 title: "Grid Computing: Enabling a Vision for Collaborative Research"
 date: 2002-06-01
-publishDate: 2019-08-17T14:03:57.906939Z
+publishDate: 2019-08-18T15:53:37.035723Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

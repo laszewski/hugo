@@ -1,7 +1,7 @@
 ---
 title: "InfoGram: A Peer-to-Peer Information and Job Submission Service"
 date: 2002-07-01
-publishDate: 2019-08-17T14:03:57.904271Z
+publishDate: 2019-08-18T15:53:37.032999Z
 authors: ["Gregor von Laszewski", "Jarek Gawor", "Carlos J. Peña", "Ian Foster"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "A Grid Service Based Active Thermochemical Table Framework"
 date: 2002-11-01
-publishDate: 2019-08-17T14:03:57.900284Z
+publishDate: 2019-08-18T15:53:37.028627Z
 authors: ["Gregor von Laszewski", "Branko Ruscic", "Patrick Wagstrom", "Sriram Krishnan", "Kaizar Amin", "Sandeep Nijsure", "Sandra Bittner", "Reinhardt Pinzon", "John C. Hewson", "Melita L. Morton", "Mike Minkoff", "Al Wagner"]
 publication_types: ["1"]
 abstract: ""

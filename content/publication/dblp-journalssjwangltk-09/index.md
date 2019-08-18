@@ -1,7 +1,7 @@
 ---
 title: "Grid Virtualization Engine: Design, Implementation, and Evaluation"
 date: 2009-01-01
-publishDate: 2019-08-17T14:03:57.883635Z
+publishDate: 2019-08-18T15:53:37.011284Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Jie Tao", "Marcel Kunze"]
 publication_types: ["2"]
 abstract: ""

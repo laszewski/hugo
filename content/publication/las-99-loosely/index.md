@@ -1,7 +1,7 @@
 ---
 title: "A Loosely Coupled Metacomputer: Cooperating Job Submissions Across Multiple Supercomputing Sites"
 date: 1999-12-01
-publishDate: 2019-08-17T14:03:57.959342Z
+publishDate: 2019-08-18T15:53:37.098917Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

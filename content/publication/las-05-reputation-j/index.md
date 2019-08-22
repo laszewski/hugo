@@ -1,7 +1,7 @@
 ---
 title: "Toward Reputable Grids"
 date: 2005-09-01
-publishDate: 2019-08-18T17:32:02.694660Z
+publishDate: 2019-08-21T13:12:56.661878Z
 authors: ["Gregor von Laszewski", "Beulah Alunkal", "Ivana Veljkovic"]
 publication_types: ["2"]
 abstract: ""

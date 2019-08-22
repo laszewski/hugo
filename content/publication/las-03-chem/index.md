@@ -1,7 +1,7 @@
 ---
 title: "Further Refinements of the Bond Dissociation Energy in Water and Hydroxyl Radical Using the Active Thermochemical Tables Approach"
 date: 2003-06-01
-publishDate: 2019-08-18T17:32:02.673172Z
+publishDate: 2019-08-21T13:12:56.647495Z
 authors: ["B. Ruscic", "R. E. Pinzon", "M. L. Morton", "B. Wang", "A. F. Wagner", "G. von Laszevski", "S. G. Nijsure", "K. A. Amin", "Sandra J. Bittner", "M. Minkoff"]
 publication_types: ["1"]
 abstract: ""

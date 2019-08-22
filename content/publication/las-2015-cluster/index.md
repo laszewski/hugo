@@ -1,7 +1,7 @@
 ---
 title: "Peer Comparison of Cluster Resource Provider Publication Data"
 date: 2015-01-01
-publishDate: 2019-08-18T17:32:02.736119Z
+publishDate: 2019-08-21T13:12:56.696934Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Geoffrey C. Fox", "David L. Hart", "Thomas R. Furlani", "Robert L. DeLeon", "Steven M. Gallo"]
 publication_types: ["1"]
 abstract: ""

@@ -1,5 +1,5 @@
 +++
-title = "Cloud Computing"
+title = "Linux for Cloud Computing"
 date = 2019-08-15
 draft = false
 tags = []
@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book//vonLaszewski-cloud.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book//vonLaszewski-cloud.pdf"}
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book//vonLaszewski-linux.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book//vonLaszewski-linux.pdf"}
 ]
 
 # Featured image

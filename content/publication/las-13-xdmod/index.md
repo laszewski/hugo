@@ -1,7 +1,7 @@
 ---
 title: "Using XDMoD to Facilitate XSEDE Operations, Planning and Analysis"
 date: 2013-01-01
-publishDate: 2019-08-18T17:32:02.729540Z
+publishDate: 2019-08-21T13:12:56.691543Z
 authors: ["Thomas R. Furlani", "Barry L. Schneider", "Matthew D. Jones", "John Towns", "David L. Hart", "Steven M. Gallo", "Robert L. DeLeon", "Charng-Da Lu", "Amin Ghadersohi", "Ryan J. Gentner", "Abani K. Patra", "Gregor von Laszewski", "Fugang Wang", "Jeffrey T. Palmer", "Nikolay Simakov"]
 publication_types: ["1"]
 abstract: ""

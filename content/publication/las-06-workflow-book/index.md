@@ -1,7 +1,7 @@
 ---
 title: "Grid Workflow with the Java CoG Kit"
 date: 2007-01-01
-publishDate: 2019-08-18T17:32:02.697663Z
+publishDate: 2019-08-21T13:12:56.663929Z
 authors: ["Gregor von Laszewski", "Mihael Hategan", "Depti Kodeboyina"]
 publication_types: ["6"]
 abstract: ""

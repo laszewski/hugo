@@ -1,7 +1,7 @@
 ---
 title: "Towards a Scientific Impact Measuring Framework for Large Computing Facilities - a Case Study on XSEDE"
 date: 2014-01-01
-publishDate: 2019-08-21T13:12:56.692583Z
+publishDate: 2019-08-22T18:20:18.110990Z
 authors: ["Fugang Wang", "Gregor von Laszewski", "Geoffrey C. Fox", "Thomas R. Furlani", "Robert L. DeLeon", "Steven M. Gallo"]
 publication_types: ["1"]
 abstract: ""

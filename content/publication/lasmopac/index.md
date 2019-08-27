@@ -1,7 +1,7 @@
 ---
 title: "Draft: Parallelization of MOPAC"
 date: 1995-01-01
-publishDate: 2019-08-27T19:08:08.278610Z
+publishDate: 2019-08-27T19:24:37.044813Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["4"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Partitional Algorithms for Flow Cytometry on GPUs"
 date: 2009-08-01
-publishDate: 2019-08-22T18:20:18.100105Z
+publishDate: 2019-08-27T18:23:28.132882Z
 authors: ["Jeremy Espenshade", "Andrew Pangborn", "James Cavenaugh", "Gregor von Laszewski", "Doug Roberts"]
 publication_types: ["1"]
 abstract: ""

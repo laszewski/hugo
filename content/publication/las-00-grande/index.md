@@ -1,7 +1,7 @@
 ---
 title: "CoG Kits: A Bridge between Commodity Distributed Computing and High-Performance Grids"
 date: 2000-06-01
-publishDate: 2019-08-22T18:20:18.052669Z
+publishDate: 2019-08-27T18:23:28.080835Z
 authors: ["Gregor von Laszewski", "Ian Foster", "Jarek Gawor", "Warren Smith", "Steve Tuecke"]
 publication_types: ["1"]
 abstract: ""

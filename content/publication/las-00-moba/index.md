@@ -1,7 +1,7 @@
 ---
 title: "Grid-based Asynchronous Migration of Execution Context in Java Virtual Machines"
 date: 2000-08-01
-publishDate: 2019-08-22T18:20:18.053266Z
+publishDate: 2019-08-27T18:23:28.081569Z
 authors: ["Gregor von Laszewski", "Kazuyuki Shudo", "Yoichi Muraoka"]
 publication_types: ["1"]
 abstract: ""

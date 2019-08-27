@@ -1,7 +1,7 @@
 ---
 title: "Cyberaide Virtual Applicance: On-Demand Deploying Middleware for Cyberinfrastructure"
 date: 2010-10-01
-publishDate: 2019-08-22T18:20:18.097947Z
+publishDate: 2019-08-27T18:23:28.129243Z
 authors: ["Tobias Kurze", "Lizhe Wang", "Gregor von Laszewski", "Jie Tao", "Marcel Kunze", "Fugang Wang", "David Kramer", "Wolfgang Karl", "Jaliya Ekanayake"]
 publication_types: ["6"]
 abstract: ""

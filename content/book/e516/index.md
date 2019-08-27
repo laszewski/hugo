@@ -1,7 +1,7 @@
 +++
 title = "E516 - Fall 2019"
 date = 2019-08-15
-draft = true
+draft = false
 tags = []
 summary = ""
 
@@ -26,10 +26,10 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub Draft", url = "https://cloudmesh-community.github.io/book//vonLaszewski-e516.epub"},
-{icon_pack = "fab", icon="github", name="PDF Draft", url = "https://cloudmesh-community.github.io/book//vonLaszewski-e516.pdf"},
-{icon_pack = "fab", icon="github", name="ePub Syllabus", url = "https://cloudmesh-community.github.io/book//vonLaszewski-e516-syllabus.epub"},
-{icon_pack = "fab", icon="github", name="PDF Syllabus", url = "https://cloudmesh-community.github.io/book//vonLaszewski-e516-syllabus.pdf"},
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516.pdf"},
+# {icon_pack = "fab", icon="github", name="ePub Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.epub"},
+# {icon_pack = "fab", icon="github", name="PDF Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.pdf"},
 ]
 
 # Featured image
@@ -44,4 +44,10 @@ url_custom = [
 +++
 
 
-This page is under construction
+Here you find the Lecture notes for e516. PLease com back to this page
+as we will update it weekly. Updates will typically tacke place Friday
+at midnight.
+
+The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.

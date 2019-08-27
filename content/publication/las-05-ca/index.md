@@ -1,7 +1,7 @@
 ---
 title: "A Grid Certificate Authority for Community and Ad-hoc Grids"
 date: 2005-04-01
-publishDate: 2019-08-27T18:23:28.109824Z
+publishDate: 2019-08-27T19:08:08.215246Z
 authors: ["Gregor von Laszewski", "Mikhail Sosonkin"]
 publication_types: ["1"]
 abstract: ""

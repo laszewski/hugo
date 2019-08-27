@@ -1,7 +1,7 @@
 ---
 title: "Design and Implementation of a CORBA Commodity Grid Kit"
 date: 2001-11-01
-publishDate: 2019-08-27T18:23:28.085360Z
+publishDate: 2019-08-27T19:08:08.180693Z
 authors: ["Snigdha Verma", "Manish Parashar", "Jarek Gawor", "Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

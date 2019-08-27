@@ -1,7 +1,7 @@
 ---
 title: "Supporting Experimental Computer Science"
 date: 2012-03-01
-publishDate: 2019-08-27T18:23:28.073934Z
+publishDate: 2019-08-27T19:08:08.166828Z
 authors: ["Frederic Desprez", "Geoffrey Fox", "Emmanuel Jeannot", "Kate Keahey", "Michael Kozuch", "David Margery", "Pierre Neyron", "Lucas Nussbaum", "Christian Perez", "Olivier Richard", "Warren Smith", "Gregor von Laszewski", "Jens Voeckler"]
 publication_types: ["4"]
 abstract: ""

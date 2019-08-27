@@ -1,7 +1,7 @@
 ---
 title: "Rain: Dynamically Provisioning Clouds within FutureGrid"
 date: 2010-11-01
-publishDate: 2019-08-27T18:23:28.163356Z
+publishDate: 2019-08-27T19:08:08.281899Z
 authors: ["G. C. Fox", "A. J. Younge", "G. von Laszewski", "A. Kulshrestha", "F. Wang"]
 publication_types: ["0"]
 abstract: ""

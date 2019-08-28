@@ -1,7 +1,7 @@
 ---
 title: "Provide Virtual Machine Information for Grid Computing"
 date: 2010-11-01
-publishDate: 2019-08-28T17:06:32.594162Z
+publishDate: 2019-08-28T18:07:51.942336Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Dan Chen", "Jie Tao", "M. Kunze"]
 publication_types: ["2"]
 abstract: ""

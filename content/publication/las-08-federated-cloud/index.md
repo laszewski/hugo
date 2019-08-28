@@ -1,7 +1,7 @@
 ---
 title: "Design of an Accounting and Metric-based Cloud-shifting and Cloud-seeding Framework for Federated Clouds and Bare-metal Environments"
 date: 2012-01-01
-publishDate: 2019-08-28T17:06:32.560832Z
+publishDate: 2019-08-28T18:07:51.903929Z
 authors: ["Gregor von Laszewski", "Hyungro Lee", "Javier Diaz", "Fugang Wang", "Koji Tanaka", "Shubhada Karavinkoppa", "Geoffrey C. Fox", "Tom Furlani"]
 publication_types: ["1"]
 abstract: ""

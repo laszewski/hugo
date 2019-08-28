@@ -1,7 +1,7 @@
 +++
-title = "Big Data Appplications"
+title = "Big Data Appplications and Analytics"
 date = 2019-08-15
-draft = true
+draft = false
 tags = []
 summary = ""
 

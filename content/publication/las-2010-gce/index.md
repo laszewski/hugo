@@ -1,7 +1,7 @@
 ---
 title: "Design of the FutureGrid Experiment Management Framework"
 date: 2010-11-01
-publishDate: 2019-08-28T17:06:32.579311Z
+publishDate: 2019-08-28T18:07:51.927467Z
 authors: ["Gregor von Laszewski", "Geoffrey C. Fox", "Fugang Wang", "Andrew J Younge", " Kulshrestha", "Gregory G. Pike", "Warren Smith", "Jens Voeckler", "Renato J. Figueiredo", "Jose Fortes", "Kate Keahey", "Ewa Deelman"]
 publication_types: ["1"]
 abstract: ""

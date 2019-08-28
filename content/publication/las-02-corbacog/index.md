@@ -1,7 +1,7 @@
 ---
 title: "A CORBA Commodity Grid Kit"
 date: 2002-01-01
-publishDate: 2019-08-28T17:06:32.526184Z
+publishDate: 2019-08-28T18:07:51.871037Z
 authors: ["Manish Parashar", "Gregor von Laszewski", "Snigdha Verma", "Jarek Gawor", "Kate Keahey"]
 publication_types: ["2"]
 abstract: ""

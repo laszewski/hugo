@@ -1,7 +1,7 @@
 ---
 title: "Features of the Java Commodity Grid Kit"
 date: 2002-01-01
-publishDate: 2019-08-28T17:06:32.529253Z
+publishDate: 2019-08-28T18:07:51.873801Z
 authors: ["Gregor von Laszewski", "Jarek Gawor", "Peter Lane", "Nell Rehn", "Mike Russell", "Keith Jackson"]
 publication_types: ["2"]
 abstract: ""

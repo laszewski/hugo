@@ -1,7 +1,7 @@
 ---
 title: "Efficient resource management for Cloud computing environments"
 date: 2010-01-01
-publishDate: 2019-08-27T19:24:37.011930Z
+publishDate: 2019-08-28T17:06:32.567440Z
 authors: ["Andrew J. Younge", "Gregor von Laszewski", "Lizhe Wang", "Sonia Lopez-Alarcon", "Warren Carithers"]
 publication_types: ["1"]
 abstract: ""

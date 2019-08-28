@@ -1,7 +1,7 @@
 ---
 title: "Multicores in Cloud Computing: Research Challenges for Applications"
 date: 2010-01-01
-publishDate: 2019-08-27T19:24:36.933972Z
+publishDate: 2019-08-28T17:06:32.510937Z
 authors: ["Lizhe Wang", "Jie Tao", "Gregor von Laszewski", "Holger Marten"]
 publication_types: ["2"]
 abstract: ""

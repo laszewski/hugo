@@ -1,7 +1,7 @@
 ---
 title: "A Perl Commodity Grid Kit"
 date: 2002-01-01
-publishDate: 2019-08-27T19:24:36.962352Z
+publishDate: 2019-08-28T17:06:32.530877Z
 authors: ["Stephen Mock", "Mary Thomas", "Maytal Dahan", "Kurt Mueller", "Catherine Mills", "Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

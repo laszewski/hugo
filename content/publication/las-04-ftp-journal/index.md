@@ -1,7 +1,7 @@
 ---
 title: "An Overview of Grid File Transfer Patterns and their Implementation in the Java CoG Kit"
 date: 2004-09-01
-publishDate: 2019-08-27T19:24:36.973398Z
+publishDate: 2019-08-28T17:06:32.538176Z
 authors: ["Gregor von Laszewski", "Jarek Gawor", "Pawel Plaszczak", "Mike Hategan", "Kaizar Amin", "Ravi Madduri", "Scott Gose"]
 publication_types: ["2"]
 abstract: ""

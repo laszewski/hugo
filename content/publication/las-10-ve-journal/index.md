@@ -1,7 +1,7 @@
 ---
 title: "Provide Virtual Distributed Environments for Grid computing on Demand"
 date: 2010-02-01
-publishDate: 2019-08-27T19:24:37.015278Z
+publishDate: 2019-08-28T17:06:32.569635Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Marcel Kunze", "Jie Tao", "Jai Dayal"]
 publication_types: ["2"]
 abstract: ""

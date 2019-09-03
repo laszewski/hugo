@@ -1,6 +1,6 @@
 +++
 title = "E534 - Fall 2019"
-date = 2019-09-03
+date = 2019-08-03
 draft = false
 tags = []
 summary = ""

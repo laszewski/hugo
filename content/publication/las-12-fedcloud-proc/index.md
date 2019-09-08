@@ -1,7 +1,7 @@
 ---
 title: "FederatedClouds '12: Proceedings of the 2012 Workshop on Cloud Services, Federation, and the 8th Open Cirrus Summit"
 date: 2012-01-01
-publishDate: 2019-09-03T17:49:36.210152Z
+publishDate: 2019-09-08T13:09:32.789811Z
 authors: ["Gregor vonLaszewski", "Robert Grossman", "Michael Kozuchand Rick McGeerand Dejan Milojicic"]
 publication_types: ["0"]
 abstract: ""

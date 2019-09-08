@@ -1,6 +1,6 @@
 +++
-title = "Linux for Cloud Computing"
-date = 2019-08-14
+title = "E516 - Fall 2019 Proceedings"
+date = 2019-08-15
 draft = false
 tags = []
 summary = ""
@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-linux.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-linux.pdf"}
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-proceedings.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-proceedings.pdf"},
 ]
 
 # Featured image
@@ -42,4 +42,12 @@ url_custom = [
 +++
 
 
-This page is under construction
+Here you find the Documents produced by the students for this class.
+Please note that some may be edited by Gregor von Laszewski or the
+support staff for this class.
+
+We try to update this document frequently.
+
+The best we to read them is with an ePub reader. If you do not have one
+you also use the PDF version. However, PDF does not render as well as
+ePub.

@@ -1,6 +1,6 @@
 +++
 title = "Introduction into Intelligent Systems Engineering"
-date = 2019-08-15
+date = 2019-07-15
 draft = false
 tags = []
 summary = ""

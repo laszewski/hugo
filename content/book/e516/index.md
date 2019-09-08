@@ -1,5 +1,5 @@
 +++
-title = "E516 - Fall 2019"
+title = "E516 - Fall 2019 Lecture Notes"
 date = 2019-08-15
 draft = false
 tags = []

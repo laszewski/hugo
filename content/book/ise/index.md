@@ -1,6 +1,6 @@
 +++
-title = "Intelligent Systems Engeneering II - Soring 2019"
-date = 2019-08-15
+title = "Intelligent Systems Engeneering II - Spring 2019"
+date = 2019-07-15
 draft = true
 tags = []
 summary = ""

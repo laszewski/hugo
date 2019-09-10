@@ -1,7 +1,7 @@
 ---
 title: "Task scheduling with ANN-based temperature prediction in a data center: a simulation-based study"
 date: 2011-01-01
-publishDate: 2019-09-08T13:09:32.787133Z
+publishDate: 2019-09-10T22:51:35.701071Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Fang Huang", "Jai Dayal", "Tom Frulani", "Geoffrey Fox"]
 publication_types: ["2"]
 abstract: ""

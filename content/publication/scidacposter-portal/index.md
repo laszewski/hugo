@@ -1,7 +1,7 @@
 ---
 title: "Grid Portal Architectures for Scientific Applications"
 date: 2005-06-01
-publishDate: 2019-09-08T13:09:32.809603Z
+publishDate: 2019-09-10T22:51:35.722507Z
 authors: ["M. P. Thomas", "L. Cinquini J. Burruss", "G. C. Fox", "D. Gannon", "L. Gilbert", "G. von Laszewski", "K. Jackson", "D. Middleton", "R. Moore", "et al."]
 publication_types: ["0"]
 abstract: ""

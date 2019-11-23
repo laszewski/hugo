@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-proceedings.epub"},
-# {icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-proceedings.pdf"},
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516-proceedings.epub"},
+# {icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516-proceedings.pdf"},
 ]
 
 # Featured image

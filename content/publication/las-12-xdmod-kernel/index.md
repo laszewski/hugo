@@ -1,7 +1,7 @@
 ---
 title: "Performance Metrics and Auditing Framework using Application Kernels for High-performance Computer Systems"
 date: 2012-07-01
-publishDate: 2019-09-10T22:51:35.705365Z
+publishDate: 2019-11-23T10:55:54.878718Z
 authors: ["Thomas R Furlani", "Barry I Schneider", "Matthew D Jones", "Towns John", "David L Hart", "Abani K Patra", "Robert L Deleon", "Steven M Gallo", "Charng-Da Lu", "Amin Ghadersohi", "Ryan J Gentner", "Andrew E Bruno", "John R Boisseau", "Fugang Wang", "Gregor Von Laszewski"]
 publication_types: ["2"]
 abstract: ""

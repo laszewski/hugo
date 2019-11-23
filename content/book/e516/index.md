@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516.pdf"},
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516.pdf"},
 # {icon_pack = "fab", icon="github", name="ePub Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.epub"},
 # {icon_pack = "fab", icon="github", name="PDF Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.pdf"},
 ]
@@ -44,7 +44,7 @@ url_custom = [
 +++
 
 
-Here you find the Lecture notes for e516. PLease com back to this page
+Here you find the Lecture notes for e516. Please come back to this page
 as we will update it weekly. Updates will typically tacke place Friday
 at midnight.
 

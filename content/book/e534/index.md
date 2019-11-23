@@ -1,5 +1,5 @@
 +++
-title = "E534 - Fall 2019 Lecture Notes"
+title = "E516 - Fall 2019 Lecture Notes"
 date = 2019-08-15
 draft = false
 tags = []
@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e534.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e534.pdf"},
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-big-data-application.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-big-data-application.pdf"},
 ]
 
 # Featured image
@@ -42,7 +42,7 @@ url_custom = [
 +++
 
 
-Here you find the Lecture notes for e516. PLease com back to this page
+Here you find the Lecture notes for e534. Please come back to this page
 as we will update it weekly. Updates will typically tacke place Friday
 at midnight.
 

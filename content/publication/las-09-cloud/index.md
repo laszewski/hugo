@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing: a Perspective Study"
 date: 2010-01-01
-publishDate: 2019-09-10T22:51:35.689477Z
+publishDate: 2019-11-23T10:55:54.864131Z
 authors: ["Lizhe Wang", "Gregor von Laszewski", "Andrew J. Younge", "Xi He", "Marcel Kunze", "Jie Tao", "Cheng Fu"]
 publication_types: ["2"]
 abstract: ""

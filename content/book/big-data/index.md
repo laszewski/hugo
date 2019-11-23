@@ -26,8 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/book//vonLaszewski-big-data-applications.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/book//vonLaszewski-big-data-applications.pdf"}
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub//vonLaszewski-big-data-applications.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub//vonLaszewski-big-data-applications.pdf"}
 ]
 
 # Featured image

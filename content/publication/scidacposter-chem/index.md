@@ -1,7 +1,7 @@
 ---
 title: "Collaboratory for Multi-scale Chemical Science"
 date: 2004-03-01
-publishDate: 2019-09-10T22:51:35.721510Z
+publishDate: 2019-11-23T10:55:54.897659Z
 authors: ["Thomas C. Allison", "Sandra Bittner", "Brett Didier", "Michael Frenklach", "Jr. William H. Green", "Darrian Hale", "Mihael F. Hategan-Marandiuc", "Carina Lansing", "Gregor von Laszewski", "David Leahy", "James D. Myers", "Michael Minkoff", "David Montoya", "Luwi Oluwole", "Carmen Pancerella", "Reinhardt Pinzon", "William Pitz", "Larry Rahn", "Jane Riese", "Branko Ruscic", "Karen Schuchardt", "Albert F. Wagner", "Theresa Windus", "Christine Yang", "Ginger Young"]
 publication_types: ["0"]
 abstract: ""

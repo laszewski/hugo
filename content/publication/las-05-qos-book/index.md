@@ -1,7 +1,7 @@
 ---
 title: "Quality-of-Service Based Grid Communities"
 date: 2005-01-01
-publishDate: 2019-09-10T22:51:35.666686Z
+publishDate: 2019-11-23T10:55:54.846235Z
 authors: ["Omer Rana", "Asif Akram", "Rashid Al-Ali", "David Walker", "Gregor von Laszewski", "Kaizar Amin"]
 publication_types: ["6"]
 abstract: ""

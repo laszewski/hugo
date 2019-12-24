@@ -10,7 +10,7 @@ ignoreFiles:
   - _files$
   - _cache$
 preserveTaxonomyNames: true
-paginate: 10
+paginate: 100
 disqusShortname: ''
 googleAnalytics: ''
 defaultContentLanguage: en
@@ -126,18 +126,21 @@ menu:
     - name: Books
       url: '#books'
       weight: 5
+    - name: Proceedings
+      url: '#proceedings'
+      weight: 6
 #    - name: Software
 #      url: '#software'
 #      weight: 4
     - name: History
       url: '#history'
-      weight: 6
+      weight: 7
     - name: Free Shuttle
       url: '/post/shuttle'
-      weight: 7
+      weight: 8
     - name: Contact
       url: '#contact'
-      weight: 8
+      weight: 9
 taxonomies:
   tag: tags
   category: categories

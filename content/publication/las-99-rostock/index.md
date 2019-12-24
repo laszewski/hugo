@@ -1,7 +1,7 @@
 ---
 title: "Grid Infrastructure to Support Science Portals for Large Scale Instruments"
 date: 1999-06-01
-publishDate: 2019-11-23T10:55:54.894374Z
+publishDate: 2019-12-24T20:35:27.068813Z
 authors: ["Gregor von Laszewski", "Ian Foster"]
 publication_types: ["1"]
 abstract: ""

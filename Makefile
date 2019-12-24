@@ -77,3 +77,5 @@ bib: bibclean
 	academic import --overwrite --bibtex vonLaszewski.bib 
 	hugo
 
+view:
+	hugo serve --debug

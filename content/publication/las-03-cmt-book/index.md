@@ -1,7 +1,7 @@
 ---
 title: "Sourcebook of Parallel Computing"
 date: 2003-01-01
-publishDate: 2019-11-23T10:55:54.831647Z
+publishDate: 2019-12-24T20:35:27.008291Z
 authors: ["Gregor von Laszewski", "Mei-Hui Su", "Joseph Insley", "Ian Foster", "Carl Kesselman"]
 publication_types: ["6"]
 abstract: ""

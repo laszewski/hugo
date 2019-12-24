@@ -1,7 +1,7 @@
 ---
 title: "Cyberaide Shell: Interactive Task Management for Grids and Cyberinfrastructure"
 date: 2009-01-01
-publishDate: 2019-11-23T10:55:54.862579Z
+publishDate: 2019-12-24T20:35:27.037948Z
 authors: ["Gregor von Laszewski", "Andrew Younge", "Fugang Wang", "Xi He"]
 publication_types: ["3"]
 abstract: ""

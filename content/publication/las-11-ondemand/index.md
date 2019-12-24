@@ -1,7 +1,7 @@
 ---
 title: "Towards on Demand IT Service Deployment"
 date: 2011-01-01
-publishDate: 2019-11-23T10:55:54.876085Z
+publishDate: 2019-12-24T20:35:27.050638Z
 authors: ["Jai Dayal", "Casey Rathbone", "Lizhe Wang", "Gregor von Laszewski"]
 publication_types: ["6"]
 abstract: ""

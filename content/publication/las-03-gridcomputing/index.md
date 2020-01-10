@@ -1,7 +1,7 @@
 ---
 title: "Commodity Grid Kits - Middleware for Building Grid Computing Environments"
 date: 2003-01-01
-publishDate: 2019-12-24T20:35:27.011089Z
+publishDate: 2020-01-10T22:34:05.556471Z
 authors: ["Gregor von Laszewski", "Jarek Gawor", "Sriram Krishnan", "Keith Jackson"]
 publication_types: ["6"]
 abstract: ""

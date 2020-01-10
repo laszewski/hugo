@@ -1,7 +1,7 @@
 ---
 title: "A Framework for Building Scientific Knowledge Grids Applied to Thermochemical Tables"
 date: 2003-12-01
-publishDate: 2019-12-24T20:35:27.011665Z
+publishDate: 2020-01-10T22:34:05.557036Z
 authors: ["Gregor von Laszewski", "Branko Ruscic", "Kaizar Amin", "Patrick Wagstrom", "Sriram Krishnan", "Sandeep Nijsure"]
 publication_types: ["2"]
 abstract: ""

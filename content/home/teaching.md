@@ -33,6 +33,8 @@ The Piazza for past classes are no longer maintained
 
 Class                                   | ID        | Semester     | Proceedings | Piazza
 --------------------- |------ | -------- | ------- | -------
+Cloud Computing Engineering  |  e516  |   Spring 2020           |  Project, Papers | .
+Advanced Cloud Computing  |  e616  |   Spring 2020           |  Project, Papers | .
 Cloud Computing Engineering  |  e516  |   Fall 2019           |  Project, Papers | .
 Cloud Computing Engineering  |  e516  |   Sping 2019           |  Project, Papers | [link](https://piazza.com/class/jql1e30dxswzu)
 Cloud Computing Engineering  |  e516  |   Fall 2018           |  Project, Papers | [link](https://piazza.com/class/jgxybbf5rnx5qd)

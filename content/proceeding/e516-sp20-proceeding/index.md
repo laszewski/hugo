@@ -2,7 +2,7 @@
 title = "E516 - Spring 2020 Proceedings"
 date = 2019-12-24
 draft = false
-tags = []
+tags = ['proceeding']
 summary = ""
 
 # Slides (optional).

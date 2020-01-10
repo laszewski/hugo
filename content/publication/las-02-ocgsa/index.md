@@ -1,7 +1,7 @@
 ---
 title: "Open Collaborative Grid Services Architecture (OCGSA)"
 date: 2002-12-01
-publishDate: 2019-12-24T20:35:27.005116Z
+publishDate: 2020-01-10T22:34:05.549863Z
 authors: ["Kaizar Amin", "Sandeep Nijsure", "Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

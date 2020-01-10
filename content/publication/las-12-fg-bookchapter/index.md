@@ -1,7 +1,7 @@
 ---
 title: "FutureGrid - a reconfigurable testbed for Cloud, HPC and Grid Computing"
 date: 2012-01-01
-publishDate: 2019-12-24T20:35:27.052287Z
+publishDate: 2020-01-10T22:34:05.599207Z
 authors: ["Geoffrey C. Fox", "Gregor von Laszewski", "Javier Diaz", "Kate Keahey", "Jose Fortes", "Renato Figueiredo", "Shava Smallen", "Warren Smith", "Andrew Grimshaw"]
 publication_types: ["6"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Active Thermochemical Tables: Several Key Enthalpies of Formation Revisited"
 date: 2004-01-01
-publishDate: 2019-12-24T20:35:27.018184Z
+publishDate: 2020-01-10T22:34:05.563674Z
 authors: ["Branko Ruscic", "Reinhardt E. Pinzon", "Melita L. Morton", "Gregor von Laszevski", "Sandra J. Bittner", "Sandeep G. Nijsure", "Kaizar A. Amin", "Michael Minkoff", "Albert F. Wagner"]
 publication_types: ["2"]
 abstract: ""

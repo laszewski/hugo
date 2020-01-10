@@ -1,6 +1,6 @@
 +++
-title = "E516 - Fall 2019 Lecture Notes"
-date = 2019-09-10
+title = "E516 - Fall 2020 Lecture Notes"
+date = 2020-01-01
 draft = false
 tags = []
 summary = ""
@@ -26,10 +26,8 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_custom = [
-{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516.epub"},
-{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516.pdf"},
-# {icon_pack = "fab", icon="github", name="ePub Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.epub"},
-# {icon_pack = "fab", icon="github", name="PDF Syllabus", url = "https://cloudmesh-community.github.io/book/vonLaszewski-e516-syllabus.pdf"},
+{icon_pack = "fab", icon="github", name="ePub", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516-sp20.epub"},
+{icon_pack = "fab", icon="github", name="PDF", url = "https://cloudmesh-community.github.io/pub/vonLaszewski-e516-sp20.pdf"},
 ]
 
 # Featured image
@@ -51,3 +49,11 @@ at midnight.
 The best we to read them is with an ePub reader. If you do not have one
 you also use the PDF version. However, PDF does not render as well as
 ePub.
+
+Make sure to clear your browser cache to obtain the newest version.
+
+## Older versions
+
+* 2019 Lecture Notes 
+  [[ePub]](https://cloudmesh-community.github.io/pub/vonLaszewski-e516.epub) 
+  [[PDF]](https://cloudmesh-community.github.io/pub/vonLaszewski-e516.pdf)

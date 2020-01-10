@@ -1,7 +1,7 @@
 ---
 title: "Commodity Grid Kits"
 date: 2004-03-01
-publishDate: 2020-01-10T22:34:05.620560Z
+publishDate: 2020-01-10T23:07:52.373978Z
 authors: ["Gregor von Laszewski", "Keith Jackson"]
 publication_types: ["0"]
 abstract: ""

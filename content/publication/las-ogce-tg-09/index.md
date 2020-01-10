@@ -1,7 +1,7 @@
 ---
 title: "Open Grid Computing Environments"
 date: 2009-06-01
-publishDate: 2020-01-10T22:34:05.534654Z
+publishDate: 2020-01-10T23:07:52.301074Z
 authors: ["Marlon Pierce", "S. Marru", "Wenjun Wu", "Gopi Kandaswami", "Gregor von Laszewski", "Rion Dooley", "Maytal Dahan", "Nancy Wilkins-Diehr", "Mary Thomas"]
 publication_types: ["1"]
 abstract: ""

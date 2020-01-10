@@ -1,7 +1,7 @@
 ---
 title: "The FutureGrid Testbed for Big Data"
 date: 2014-01-01
-publishDate: 2020-01-10T22:34:05.601646Z
+publishDate: 2020-01-10T23:07:52.359779Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Hyungro Lee", "Heng Chen", "Geoffrey C. Fox"]
 publication_types: ["6"]
 abstract: ""

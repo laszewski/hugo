@@ -1,7 +1,7 @@
 ---
 title: "Recent Research Advances in e-Science"
 date: 2009-12-01
-publishDate: 2020-01-10T22:34:05.625494Z
+publishDate: 2020-01-10T23:07:52.377828Z
 authors: ["Xiaoyu Yang", "Lizhe Wang", "Gregor Laszewski"]
 publication_types: ["2"]
 abstract: ""

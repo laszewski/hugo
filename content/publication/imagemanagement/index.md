@@ -1,7 +1,7 @@
 ---
 title: "Abstract Image Management and Universal Image Registration for Cloud and HPC Infrastructures"
 date: 2012-06-01
-publishDate: 2020-01-10T22:34:05.531399Z
+publishDate: 2020-01-10T23:07:52.297671Z
 authors: ["Javier Diaz", "Gregor von Laszewski", "Fugang Wang", "Geoffrey C. Fox"]
 publication_types: ["1"]
 abstract: ""

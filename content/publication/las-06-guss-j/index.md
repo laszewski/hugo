@@ -1,7 +1,7 @@
 ---
 title: "A Portal for Visualizing Grid Usage"
 date: 2007-08-01
-publishDate: 2020-01-10T22:34:05.575881Z
+publishDate: 2020-01-10T23:07:52.336291Z
 authors: ["Gregor von Laszewski", "Jonathan DiCarlo", "Bill Allcock"]
 publication_types: ["2"]
 abstract: ""

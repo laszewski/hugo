@@ -1,7 +1,7 @@
 ---
 title: "An Abstraction Model for a Grid Execution Framework"
 date: 2006-01-01
-publishDate: 2020-01-10T22:34:05.559987Z
+publishDate: 2020-01-10T23:07:52.322142Z
 authors: ["Kaizar Amin", "Gregor von Laszewski", "Rashid Al Ali", "Omer Rana", "David Walker"]
 publication_types: ["2"]
 abstract: ""

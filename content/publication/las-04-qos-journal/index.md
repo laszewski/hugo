@@ -1,7 +1,7 @@
 ---
 title: "Analysis and Provision of QoS for Distributed Grid Applications"
 date: 2004-06-01
-publishDate: 2020-01-10T22:34:05.561857Z
+publishDate: 2020-01-10T23:07:52.323921Z
 authors: ["Rashid J. Al-Ali", "Kaizar Amin", "Gregor von Laszewski", "Omer F. Rana", "David W. Walker", "Mihael Hategan", "Nestor Zaluzec"]
 publication_types: ["2"]
 abstract: ""

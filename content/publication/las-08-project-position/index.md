@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Time to Scientific Discovery with a Grid-Enhanced Microsoft Project"
 date: 2008-12-01
-publishDate: 2020-01-10T22:34:05.584037Z
+publishDate: 2020-01-10T23:07:52.344786Z
 authors: ["Gregor von Laszewski", "Leor Dilmanian"]
 publication_types: ["1"]
 abstract: ""

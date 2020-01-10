@@ -1,7 +1,7 @@
 ---
 title: "GridAnt: A Client-Controllable Grid Workflow System"
 date: 2004-01-01
-publishDate: 2020-01-10T22:34:05.565675Z
+publishDate: 2020-01-10T23:07:52.327584Z
 authors: ["Kaizar Amin", "Mihael Hategan", "Gregor von Laszewski", "Nestor J. Zaluzec", "Shawn Hampton", "Albert Rossi"]
 publication_types: ["1"]
 abstract: ""

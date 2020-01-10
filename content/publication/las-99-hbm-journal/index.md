@@ -1,7 +1,7 @@
 ---
 title: "A Fault Detection Service for Wide Area Distributed Computations"
 date: 1999-01-01
-publishDate: 2020-01-10T22:34:05.614287Z
+publishDate: 2020-01-10T23:07:52.369202Z
 authors: ["P. Stelling", "C. DeMatteis", "I. Foster", "C. Kesselman", "C. Lee", "Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Supercomputing Data Analysis with an Example on the APS CATs"
 date: 1997-12-01
-publishDate: 2020-01-10T22:34:05.612857Z
+publishDate: 2020-01-10T23:07:52.367897Z
 authors: ["Gregor von Laszewski", "Mary L. Westbrook", "Craig Barnes", "Ian Foster"]
 publication_types: ["1"]
 abstract: ""

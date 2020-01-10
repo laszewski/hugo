@@ -19,8 +19,28 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = ":cloud: Classes"
+  title = ":cloud: Class: Cloud Engineering and Cloud Computing"
   content = "ENGR-E516 and CSCI-B 649: Engineering Cloud Computing will introduce you to state-of-the-art cloud technologies"
+  
+  align = "center"  # Choose `center`, `left`, or `right`.
+
+  # Overlay a color or image (optional).
+  #   Deactivate an option by commenting out the line, prefixing it with `#`.
+  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  # Call to action button (optional).
+  #   Activate the button by specifying a URL and button label below.
+  #   Deactivate by commenting out parameters, prefixing lines with `#`.
+  cta_label = "click here for more information"
+  cta_url = "/post/class"
+  cta_icon_pack = "fas"
+  cta_icon = "graduation-cap"
+
+[[item]]
+  title = ":cloud: Class: Advanced Cloud Computing"
+  content = "ENGR-E616: Advanced Cloud Computing will introduce you to state-of-the-art advanced cloud technologies"
   
   align = "center"  # Choose `center`, `left`, or `right`.
 

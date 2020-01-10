@@ -1,6 +1,6 @@
 +++
-title = "Fall 2019 Classes"
-date = 2018-11-24T01:33:02-05:00
+title = "Spring 2020 Classes"
+date = 2020-01-01T01:33:02-05:00
 draft = false
 tags = ['cloud', 'class']
 categories = ['class']
@@ -21,50 +21,54 @@ You may like some of the quotes from students:
 
 > "Best class I ever took at IU."
 
-> "Thanks to you I got a job at company ... name removed ..."
+> "Thanks to you I got a job at top rated company."
 
 > "My company has adopted lessons learned from your class."
 
+> "The level of support and expertise the professor provides is outstanding and unmatched within IU."
 
+## Independent Study
+
+Any time available.  Contact Gregor at <laszewski@gmail.com>.
+Independent studies will work on programming projects, advanced cloud
+topics, or conference/workshop papers.
+
+## Undergraduate REU
+
+This is a unique paid opportunity. It is available for US Citizens or
+Permanent Residents. Strong knowledge in Linux and Python is required.
+20 hour per week commitment is required. Please inqure with Gregor to
+see if you are qualified.
 
 ## ENGR-E516 and CSCI-B 649
 
 **Keywords:** AI cloud services, cloud workflows, multi-clouds,
-*map/reduce, build your own cloud cluster at our Lab, AWS, Azure,
-*Google, academic clouds, Kubernetes, Docker
+map/reduce, build your own cloud cluster at our Lab, AWS, Azure,
+Google, academic clouds, Kubernetes, Docker
 
 **Information:** There is little prerequisite for this class other than
-*knowing some programming language. However, we had students with no
-*programming background that got an A+ in class. Links to registrar:
+knowing a programming language. However, we had students with no
+programming background that got an A+ in class. Links to registrar:
 
-* [ENGR-E516](https://registrar.indiana.edu/browser/soc4198/ENGR/ENGR-E516.shtml)
-* [CSCI-B649](https://registrar.indiana.edu/browser/soc4198/CSCI/CSCI-B649.shtml)
+* [ENGR-E516](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E516.shtml)
+* [CSCI-B649](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/CSCI/CSCI-B649.shtml)
 
 Both classes are the same. They are just listed in different
 departments. These classes can be taken by anyone at the university. The
 weekly agenda is posted at:
 
-* [Agenda in PDF](https://cloudmesh-community.github.io/book/vonLaszewski-e516.pdf)
-* [Agenda in ePub](https://cloudmesh-community.github.io/book/vonLaszewski-e516.epub)
-
-Two online meetings are conducted (online students only):
-
-* Tuesday, 27 Apr : 8pm - 9pm EST
-* Thursday, 29 Apr: 8pm - 9pm EST
-
-You may want to attend one of them. Deatils are posted at:
-
-* https://piazza.com/class/jzkfveoqwri3e4?cid=7
+* [Agenda in PDF](https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.pdf)
+* [Agenda in ePub](https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.epub)
 
 Online students will have the opportunity to attend a weekly online
-meeting. The time for that will be determined based on a poll posted in
+meeting. The time for that will be determined based on a poll posted in the class
 piazza.
 
 Residential students are required to attend our in person Lab. Please be
 advised that residential students must sign up for the Friday Lab
 session also:
  
-* 11:15A-12:30P   Friday      I2 150  
+* 11:15A-12:30P  Friday      I2 150  
  
 Online students having the ability to participate in the Friday meeting
 in BLoomingtopn are welcom to join Fridays in person instead of the
@@ -89,8 +93,11 @@ and are qualified. The space for undergraduates is limited.
 
 ## ENGR-E616
 
-* Not offered in the Fall, but you can use an independent study with
-  Gregor in the Fall 2019 semester. Contact him at <laszewski@gmail.com>
-  Independent studies will work on programming projects, advanced cloud
-  topics, or conference/workshop papers.
+* Residential Meeting time: 09:30A-10:45A   Friday   I2 150 
+* Online Meeting times for online students TBD.
+
+
+* but you can use an independent study with
+
+* [ENGR-E516](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml)
 

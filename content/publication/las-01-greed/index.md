@@ -1,7 +1,7 @@
 ---
 title: "A Greedy Grid - The Grid Economic Engine Directive"
 date: 2001-04-01
-publishDate: 2020-01-10T22:34:05.541154Z
+publishDate: 2020-01-10T23:07:52.307009Z
 authors: ["Sudharshan Vazhkudai", "Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

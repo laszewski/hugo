@@ -1,7 +1,7 @@
 ---
 title: "The Java CoG Kit Experiment Manager"
 date: 2006-01-01
-publishDate: 2020-01-10T22:34:05.573481Z
+publishDate: 2020-01-10T23:07:52.334123Z
 authors: ["Gregor von Laszewski", "Christopher Grubbs", "Matthew Bone", "David Angulo"]
 publication_types: ["1"]
 abstract: ""

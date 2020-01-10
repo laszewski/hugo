@@ -1,7 +1,7 @@
 ---
 title: "Peer Comparison of XSEDE and NCAR Publication Data"
 date: 2015-09-01
-publishDate: 2020-01-10T22:34:05.531935Z
+publishDate: 2020-01-10T23:07:52.298262Z
 authors: ["G. von Laszewski", "F. Wang", "G. C. Fox", "D. L. Hart", "T. R. Furlani", "R. L. DeLeon", "S. M. Gallo"]
 publication_types: ["1"]
 abstract: ""

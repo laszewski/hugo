@@ -1,7 +1,7 @@
 ---
 title: "GridTorrent Framework: A High-performance Data Transfer and Data Sharing Framework for Scientific Computing"
 date: 2007-01-01
-publishDate: 2020-01-10T23:07:52.340991Z
+publishDate: 2020-01-10T23:35:55.711355Z
 authors: ["Ali Kaplan", "Geoffrey C. Fox", "Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "JavaScript Grid Abstractions"
 date: 2007-11-01
-publishDate: 2020-01-10T23:07:52.339806Z
+publishDate: 2020-01-10T23:35:55.709817Z
 authors: ["Gregor von Laszewski", "Fugang Wang", "Andrew Younge", "Zhenhua Guo", "Marlon Pierce"]
 publication_types: ["1"]
 abstract: ""

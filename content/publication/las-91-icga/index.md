@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Structural Operators for the k-way Graph Partitioning Problem"
 date: 1991-07-01
-publishDate: 2020-01-10T23:07:52.365918Z
+publishDate: 2020-01-10T23:35:55.747216Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

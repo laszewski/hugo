@@ -1,7 +1,7 @@
 ---
 title: "Distance Visualization: Data Exploration on the Grid"
 date: 1999-12-01
-publishDate: 2020-01-10T23:07:52.369710Z
+publishDate: 2020-01-10T23:35:55.752237Z
 authors: ["Ian Foster", "Joeseph Insley", "Gregor von Laszewski", "Carl Kesselman", "Marcus Thiebaux"]
 publication_types: ["2"]
 abstract: ""

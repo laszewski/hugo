@@ -21,15 +21,21 @@ You may like some of the quotes from students:
 
 > "Best class I ever took at IU."
 
-> "Thanks to you I got a job at top rated company."
+> "Thanks to you I got a job at a top rated company."
 
 > "My company has adopted lessons learned from your class."
 
 > "The level of support and expertise the professor provides is outstanding and unmatched within IU."
 
+All classes can be taken by graduate and undergraduate students.
+Undergraduate students may need permission from me for some classes. In
+the past we had dedicated undergraduates participatintg in the class
+that were in the top 5% of the class.
+
 ## Independent Study
 
-Any time available.  Contact Gregor at <laszewski@gmail.com>.
+Independent Studies are any time available for graduate and
+undergraduate students.  Contact Gregor at <laszewski@gmail.com>.
 Independent studies will work on programming projects, advanced cloud
 topics, or conference/workshop papers.
 
@@ -40,14 +46,14 @@ Permanent Residents. Strong knowledge in Linux and Python is required.
 20 hour per week commitment is required. Please inqure with Gregor to
 see if you are qualified.
 
-## ENGR-E516 and CSCI-B 649
+## ENGR-E516 and CSCI-B649
 
 **Keywords:** AI cloud services, cloud workflows, multi-clouds,
 map/reduce, build your own cloud cluster at our Lab, AWS, Azure,
 Google, academic clouds, Kubernetes, Docker
 
 **Information:** There is little prerequisite for this class other than
-knowing a programming language. However, we had students with no
+knowing a programming language. However, we had dedicated students with no
 programming background that got an A+ in class. Links to registrar:
 
 * [ENGR-E516](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E516.shtml)
@@ -57,8 +63,7 @@ Both classes are the same. They are just listed in different
 departments. These classes can be taken by anyone at the university. The
 weekly agenda is posted at:
 
-* [Agenda in PDF](https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.pdf)
-* [Agenda in ePub](https://cloudmesh-community.github.io/book/vonLaszewski-e516-sp20.epub)
+* [Lecture Notes](https://laszewski.github.io/book/e516/)
 
 Online students will have the opportunity to attend a weekly online
 meeting. The time for that will be determined based on a poll posted in the class
@@ -73,11 +78,6 @@ session also:
 Online students having the ability to participate in the Friday meeting
 in BLoomingtopn are welcom to join Fridays in person instead of the
 online meetings.
-
-
-Project examples (incomplete list) are at:
-
-* [Project examples](https://cloudmesh.github.io/cloudmesh-manual/projects/index.html)
 
  
 **Note:** Students taking this class have access to our Lab space in the
@@ -96,8 +96,5 @@ and are qualified. The space for undergraduates is limited.
 * Residential Meeting time: 09:30A-10:45A   Friday   I2 150 
 * Online Meeting times for online students TBD.
 
-
-* but you can use an independent study with
-
-* [ENGR-E516](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml)
+* [ENGR-E616](https://utilities.registrar.indiana.edu/course-browser/prl/soc4202fac/ENGR/ENGR-E616.shtml)
 

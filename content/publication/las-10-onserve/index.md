@@ -1,7 +1,7 @@
 ---
 title: "Cyberaide onServe: Software as a Service on Production Grids"
 date: 2010-09-01
-publishDate: 2020-01-10T23:07:52.351871Z
+publishDate: 2020-01-10T23:35:55.727090Z
 authors: ["Tobias Kurze", "Lizhe Wang", "Gregor von Laszewski", "Jie Tao", "Marcel Kunze"]
 publication_types: ["1"]
 abstract: ""

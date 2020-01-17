@@ -1,7 +1,7 @@
 ---
 title: "An Interactive Parallel Programming Environment Applied in Atmospheric Science"
 date: 1996-12-01
-publishDate: 2020-01-10T23:07:52.366955Z
+publishDate: 2020-01-10T23:35:55.748515Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["1"]
 abstract: ""

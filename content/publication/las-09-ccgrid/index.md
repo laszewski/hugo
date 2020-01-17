@@ -1,7 +1,7 @@
 ---
 title: "Experiment and Workflow Management Using Cyberaide Shell"
 date: 2009-05-01
-publishDate: 2020-01-10T23:07:52.345419Z
+publishDate: 2020-01-10T23:35:55.716604Z
 authors: ["Gregor von Laszewski", "Andrew Younge", "Xi He", "Kumar Mahinthakumar", "Lizhe Wang"]
 publication_types: ["1"]
 abstract: ""

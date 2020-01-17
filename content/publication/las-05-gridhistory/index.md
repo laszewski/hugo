@@ -1,7 +1,7 @@
 ---
 title: "The Grid-Idea and Its Evolution"
 date: 2005-06-01
-publishDate: 2020-01-10T23:07:52.331388Z
+publishDate: 2020-01-10T23:35:55.698866Z
 authors: ["Gregor von Laszewski"]
 publication_types: ["2"]
 abstract: ""

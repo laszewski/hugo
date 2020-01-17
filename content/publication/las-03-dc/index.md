@@ -1,7 +1,7 @@
 ---
 title: "Metadata in the Collaboratory for Multi-Scale Chemical Science"
 date: 2003-09-01
-publishDate: 2020-01-10T23:07:52.317933Z
+publishDate: 2020-01-10T23:35:55.680638Z
 authors: ["Carmen Pancerella", "James D. Myers", "Thomas C. Allison", "Kaizar Amin", "Sandra Bittner", "Brett Didier", "Michael Frenklach", "Jr. William H. Green", "Yen-Ling Ho", "John Hewson", "Wendy Koegler", "Carina Lansing", "David Leahy", "Michael Lee", "Renata McCoy", "Michael Minkoff", "Sandeep Nijsure", "Gregor von Laszewski", "David Montoya", "Reinhardt Pinzon", "William Pitz", "Larry Rahn", "Branko Ruscic", "Karen Schuchardt", "Eric Stephan", "Al Wagner", "Baoshan Wang", "Theresa Windus", "Lili Xu", "Christine Yang"]
 publication_types: ["1"]
 abstract: ""

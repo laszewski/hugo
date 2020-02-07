@@ -33,6 +33,10 @@ MESH during the academic year when class is in session.
     11th Street and North Forrest Avenue.
   * MESH: Front door
   
+## IU Safe Escort
+
+For after hour rides, please coordinate with the 
+[IU Savety Escort](https://safety.indiana.edu/).
 
 ## Other 
 
